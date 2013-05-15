@@ -1,9 +1,9 @@
-See also: KwikiKnownBugs
+See also: [KwikiKnownBugs](/KwikiKnownBugs)
 
 Add these features:
 
-* KwikiSisters
+* [KwikiSisters](/KwikiSisters)
 * Page aliasing
 * Page renaming/refactoring
 * Revision Diff Display
-* Support [=javascript/local][] and [=css/local][]
+* Support `javascript/local` and `css/local`

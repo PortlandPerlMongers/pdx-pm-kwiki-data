@@ -1,10 +1,10 @@
 ## Client/Boss Requirements War Stories
 
-Presenter:  [You http://pdx.pm.org/kwiki/index.cgi?PortlandPerlMongerMembers][]
+Presenter:  [You](http://pdx.pm.org/kwiki/index.cgi?PortlandPerlMongerMembers)
 
-How do you cope with changing requirements and unrealistic schedules?  What (social and technical) techniques provide an abstraction layer that business decision-makers use to drive a project?  What is the /right/ amount of information-hiding?
+How do you cope with changing requirements and unrealistic schedules?  What (social and technical) techniques provide an abstraction layer that business decision-makers use to drive a project?  What is the _right_ amount of information-hiding?
 
-As [Morlocks http://www.cryptonomicon.com/beginning.html][], we are extremely valuable to the Eloi to the extent that we solve the /right/ problem on the /right/ schedule.  Sometimes, this means defining the problem; sometimes the schedule.  Users often do not know what they want or may have trouble expressing it.  This discussion is about the translation process, the grief that it causes, and how to make it more enjoyable for both sides.
+As [Morlocks](http://www.cryptonomicon.com/beginning.html), we are extremely valuable to the Eloi to the extent that we solve the _right_ problem on the _right_ schedule.  Sometimes, this means defining the problem; sometimes the schedule.  Users often do not know what they want or may have trouble expressing it.  This discussion is about the translation process, the grief that it causes, and how to make it more enjoyable for both sides.
 
 ---
 

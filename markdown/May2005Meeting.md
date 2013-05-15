@@ -2,7 +2,7 @@
 
 #### Wednesday, May 11th, 2005 6:30pm at Free Geek, 1741 SE 10th Ave
 
-Ovid, talking about Prolog ([slides http://users.easystreet.com/ovid/presentations/logic/][])
+Ovid, talking about Prolog ([slides](http://users.easystreet.com/ovid/presentations/logic/))
 
 The "holy grail" of computing, for many, is simply telling the computer
 what you want and have it figure out how to do it.  Prolog is a step in

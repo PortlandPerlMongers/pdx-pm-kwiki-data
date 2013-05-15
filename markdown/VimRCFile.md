@@ -1,4 +1,4 @@
-JoshHeumann
+[JoshHeumann](/JoshHeumann)
 
     " maps save to shift-w
     map W :w<cr>
@@ -18,11 +18,11 @@ JoshHeumann
     map q: :q
     map Q :q
 
-Also, see RandallHansen's bucketize plugin VimRCFileBucketize
+Also, see [RandallHansen](/RandallHansen)'s bucketize plugin [VimRCFileBucketize](/VimRCFileBucketize)
 
 ---
 
-EricWilhelm
+[EricWilhelm](/EricWilhelm)
 
     " I sometimes save with Ctrl+S
     map <C-s> :w<CR>
@@ -74,11 +74,11 @@ Aside:  when creating a new subroutine, I always do this:
 
     :r! printsub -d --obj myobj methodname
 
-That [=-d][] makes sure that I get documentation, and with [=--obj][] I get the [=my $self = shift;][] line for free.  There are some other fun bits in [http://scratchcomputing.com/tmp/printsub printsub][] (which, like a lot of daily-use tools, could at this point really use some documentation.)
+That `-d` makes sure that I get documentation, and with `--obj` I get the `my $self = shift;` line for free.  There are some other fun bits in [printsub](http://scratchcomputing.com/tmp/printsub) (which, like a lot of daily-use tools, could at this point really use some documentation.)
 
 ---
 
-[chromatic][]
+[chromatic](/chromatic)
 
     map ,ton  <ESC>:%s/More tests =>/More 'no_plan'; # tests =>/<CR>
     map ,toff <ESC>:%s/More 'no_plan'; # /More /<CR>$b
@@ -87,6 +87,6 @@ That [=-d][] makes sure that I get documentation, and with [=--obj][] I get the 
 
 ---
 
-AdamMonsen
+[AdamMonsen](/AdamMonsen)
 
-I've moved mine [to http://dotfiles.org/~meonkeys/.vimrc dotfiles.org][].
+I've moved mine [to dotfiles.org](http://dotfiles.org/~meonkeys/.vimrc).

@@ -1,8 +1,8 @@
-Apache's mod_perl makes Perl applications run much faster and scale well to heavy usage. Using Kwiki with mod_perl is a piece of cake. 
+Apache's mod_perl makes Perl applications run much faster and scale well to heavy usage. Using Kwiki with mod_perl is a piece of cake.
 
-First you need is an Apache server built with mod_perl support. See http://perl.apache.org
+First you need is an Apache server built with mod_perl support. See http://perl.apache.org for more information.
 
-Then install a Kwiki site following the normal KwikiInstallation procedures.
+Then install a Kwiki site following the normal [KwikiInstallation](/KwikiInstallation) procedures.
 
 Finally add something like this to your Apache configuration:
 

@@ -2,4 +2,4 @@
 
 Sister Sites is a way of providing accidental linking between your Kwiki and other wiki sites of your choosing.
 
-See http://c2.com/cgi/wiki?AboutSisterSites
+See http://c2.com/cgi/wiki?AboutSisterSites for more info.

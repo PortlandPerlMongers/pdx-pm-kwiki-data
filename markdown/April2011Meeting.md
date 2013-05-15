@@ -4,7 +4,7 @@
 
 speaker: Chad 'Exodist' Granum
 
-Mock::Quick: ([CPAN http://search.cpan.org/~exodist/Mock-Quick/lib/Mock/Quick.pm][], [Github https://github.com/exodist/Mock-Quick][]) Is a modern mocking library taking advantage of modern Perl interface design.
+Mock::Quick: ([CPAN](http://search.cpan.org/~exodist/Mock-Quick/lib/Mock/Quick.pm), [Github](https://github.com/exodist/Mock-Quick)) Is a modern mocking library taking advantage of modern Perl interface design.
 
 Topics include:
 

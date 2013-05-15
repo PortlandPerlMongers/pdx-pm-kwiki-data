@@ -1,4 +1,4 @@
-Update:  this module is [http://search.cpan.org/dist/Class-CGI/ Now on the CPAN][] and [http://groups.yahoo.com/group/class_cgi/ has a mailing list][].  Feel free to join and contribute.
+Update:  this module is [Now on the CPAN](http://search.cpan.org/dist/Class-CGI/) and [has a mailing list](http://groups.yahoo.com/group/class_cgi/).  Feel free to join and contribute.
 
 ---
 
@@ -6,7 +6,7 @@ The following is a description of a module I (Ovid) keep meaning to write, but d
 
 # NAME
 
-[=Class::CGI][] -- Use CGI parameters as objects
+`Class::CGI` -- Use CGI parameters as objects
 
 # SYNOPSIS
 
@@ -20,6 +20,6 @@ The following is a description of a module I (Ovid) keep meaning to write, but d
 
 # DESCRIPTION
 
-For small CGI scripts, it's still common to get a parameter, untaint it, pass it to an object constructor and get the object back.  This module would allow one to to build [=Class::CGI][] handler classes (subclassing would not be appropriate) which could take the parameter value, automatically perform those steps and just return the object.  Much grunt work would just go away.
+For small CGI scripts, it's still common to get a parameter, untaint it, pass it to an object constructor and get the object back.  This module would allow one to to build `Class::CGI` handler classes (subclassing would not be appropriate) which could take the parameter value, automatically perform those steps and just return the object.  Much grunt work would just go away.
 
-[http://use.perl.org/~Ovid/journal/20569 Initial idea and discussion][].
+[Initial idea and discussion](http://use.perl.org/~Ovid/journal/20569).

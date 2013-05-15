@@ -8,6 +8,6 @@
 * Who threw the best parties?
 * Where was the best beer/food?
 * Who did you meet and what are they working on?
-* Why are pdx.pm [http://pdx.pm.org/kwiki/index.cgi?shirts2006 shirts][] so popular with the ladies?
+* Why are pdx.pm [shirts](http://pdx.pm.org/kwiki/index.cgi?shirts2006) so popular with the ladies?
 
 There should be a podcast for this meeting somewhere.

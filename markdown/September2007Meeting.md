@@ -6,8 +6,8 @@
 
 Speaker: Jay Shirley
 
-Jay is leading a large refactoring effort at [http://www.picturetrail.com/ a social networking company][] where he is currently handling over a million requests per day from a [Catalyst http://search.cpan.org/dist/Catalyst/][] app which also co-exists with legacy code.
+Jay is leading a large refactoring effort at [a social networking company](http://www.picturetrail.com/) where he is currently handling over a million requests per day from a [Catalyst](http://search.cpan.org/dist/Catalyst/) app which also co-exists with legacy code.
 
 The talk includes a quick overview, followed by "Hello World/Catalyst Concepts" in an interactive format, and then a demonstration of a simple real world application (Paste system.)
 
-Slides are [http://staff.toeat.com/~jshirley/Catalyst/Presentations/takahashi.xul?data=CatalystIn30Minutes.txt#page1 here][].
+Slides are [here](http://staff.toeat.com/~jshirley/Catalyst/Presentations/takahashi.xul?data=CatalystIn30Minutes.txt#page1).

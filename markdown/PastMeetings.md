@@ -1,6 +1,6 @@
 ## 2013
 
-* !February2013Meeting - valentine social
+* February2013Meeting - valentine social
 * January2013Meeting - "Sane Database Change Management with Sqitch"
 
 ## 2012
@@ -100,9 +100,9 @@
 * October2006Meeting
 * September2006Meeting
 * August2006Meeting
-* July2006MeetingB
+* [July2006MeetingB](/July2006MeetingB)
 * July2006Meeting
-* June2006MeetingB 
+* [June2006MeetingB](/June2006MeetingB) 
 * June2006Meeting
 * May2006Meeting
 * April2006Meeting

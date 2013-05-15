@@ -8,4 +8,4 @@ A round-table discussion of various techniques (involving DSLs, YAML, SQL, Prolo
 * sandboxed/restricted "code"
 * portable procedures
 
-There is a podcast [http://pdxpm.podasp.com/archive.html?pname=meetings.xml here][].
+There is a podcast [here](http://pdxpm.podasp.com/archive.html?pname=meetings.xml).

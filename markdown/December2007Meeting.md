@@ -10,4 +10,4 @@ Kevin will discuss the message-passing approach to concurrent programming, using
 
 The talk will include a brief introduction to each, then two implementations for a couple simple tasks to compare and contrast.
 
-Presentation materials are [http://kevin.scaldeferri.com/dist/presentations/pdx_pm_poe.tar.gz here][].
+Presentation materials are [here](http://kevin.scaldeferri.com/dist/presentations/pdx_pm_poe.tar.gz).

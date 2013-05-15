@@ -1,44 +1,44 @@
-CGI::Kwiki is simple yet powerful Wiki environment written in Perl as a CPAN module distribribution. It was written by BrianIngerson.
+CGI::Kwiki is simple yet powerful Wiki environment written in Perl as a CPAN module distribribution. It was written by [BrianIngerson](/BrianIngerson).
 
 ### Kwiki Basics
 
-* KwikiInstallation
-* KwikiUpgrading
-* KwikiFeatures
-* KwikiFormattingRules
-* KwikiNavigation
+* [KwikiInstallation](/KwikiInstallation)
+* [KwikiUpgrading](/KwikiUpgrading)
+* [KwikiFeatures](/KwikiFeatures)
+* [KwikiFormattingRules](/KwikiFormattingRules)
+* [KwikiNavigation](/KwikiNavigation)
 
 ### CGI::Kwiki Development
 
-* KwikiAbout
-* KwikiTodo
-* KwikiKnownBugs
+* [KwikiAbout](/KwikiAbout)
+* [KwikiTodo](/KwikiTodo)
+* [KwikiKnownBugs](/KwikiKnownBugs)
 
 ### Configuring a Kwiki Site
 
-* KwikiCustomization
-* KwikiBackup
+* [KwikiCustomization](/KwikiCustomization)
+* [KwikiBackup](/KwikiBackup)
 
 ### CGI::Kwiki Class/Module Documentation
 
-* KwikiModule
-* KwikiDriverModule
-* KwikiConfigModule
-* KwikiConfigYamlModule
-* KwikiFormatterModule
-* KwikiDatabaseModule
-* KwikiMetadataModule
-* KwikiDisplayModule
-* KwikiEditModule
-* KwikiTemplateModule
-* KwikiCgiModule
-* KwikiCookieModule
-* KwikiSearchModule
-* KwikiChangesModule
-* KwikiPrefsModule
-* KwikiNewModule
-* KwikiPagesModule
-* KwikiStyleModule
-* KwikiScriptsModule
-* KwikiJavascriptModule
-* KwikiSlidesModule
+* [KwikiModule](/KwikiModule)
+* [KwikiDriverModule](/KwikiDriverModule)
+* [KwikiConfigModule](/KwikiConfigModule)
+* [KwikiConfigYamlModule](/KwikiConfigYamlModule)
+* [KwikiFormatterModule](/KwikiFormatterModule)
+* [KwikiDatabaseModule](/KwikiDatabaseModule)
+* [KwikiMetadataModule](/KwikiMetadataModule)
+* [KwikiDisplayModule](/KwikiDisplayModule)
+* [KwikiEditModule](/KwikiEditModule)
+* [KwikiTemplateModule](/KwikiTemplateModule)
+* [KwikiCgiModule](/KwikiCgiModule)
+* [KwikiCookieModule](/KwikiCookieModule)
+* [KwikiSearchModule](/KwikiSearchModule)
+* [KwikiChangesModule](/KwikiChangesModule)
+* [KwikiPrefsModule](/KwikiPrefsModule)
+* [KwikiNewModule](/KwikiNewModule)
+* [KwikiPagesModule](/KwikiPagesModule)
+* [KwikiStyleModule](/KwikiStyleModule)
+* [KwikiScriptsModule](/KwikiScriptsModule)
+* [KwikiJavascriptModule](/KwikiJavascriptModule)
+* [KwikiSlidesModule](/KwikiSlidesModule)

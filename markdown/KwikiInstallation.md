@@ -4,7 +4,7 @@ Kwiki is a snap to install.
 
 First:
 
-* Download and install the CGI::Kwiki module from [CPAN http://search.cpan.org/search?query=cgi-kwiki&mode=dist][]
+* Download and install the CGI::Kwiki module from [CPAN](http://search.cpan.org/search?query=cgi-kwiki&mode=dist)
 * Have an Apache web server.
 
 Second:
@@ -38,7 +38,7 @@ Adjust to your needs.
 
 ## See Also:
 
-* KwikiUpgrading
-* KwikiModPerl
-* KwikiPrivacy
-* KwikiBackup
+* [KwikiUpgrading](/KwikiUpgrading)
+* [KwikiModPerl](/KwikiModPerl)
+* [KwikiPrivacy](/KwikiPrivacy)
+* [KwikiBackup](/KwikiBackup)

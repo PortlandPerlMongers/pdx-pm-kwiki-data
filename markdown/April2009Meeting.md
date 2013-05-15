@@ -1,8 +1,8 @@
 # Meta-Moose
 
-speaker: Hans Dieter Pearcey [hdp][]
+speaker: Hans Dieter Pearcey [hdp](/hdp)
 
-[http://search.cpan.org/dist/Moose Moose][] is a postmodern object system for Perl 5.  
+[Moose](http://search.cpan.org/dist/Moose) is a postmodern object system for Perl 5.
 
 Moose's recent rise in popularity has led to a surge of declarative
 class-building and accessor-generating modules, but the real power of Moose
@@ -25,10 +25,10 @@ expect that everyone will immediately understand every concept provided -- my
 goal is to impress you so much with Moose's awesomeness that you're willing to
 follow up later on the documentation pointers that I throw out.
 
-[http://calagator.org/events/1250456880 Calagator][]
+[Calagator](http://calagator.org/events/1250456880)
 
-[=3:o][] [http://www.flickr.com/search/?w=all&q=moose+yapcna2006&m=tags Moose!][]
+`3:o` [Moose!](http://www.flickr.com/search/?w=all&q=moose+yapcna2006&m=tags)
 
-[http://pdxpm.podasp.com/archive.html?pname=meetings.xml Podcast][]
+[Podcast](http://pdxpm.podasp.com/archive.html?pname=meetings.xml)
 
-[http://www.weftsoar.net/~hdp/talk/meta-moose/slides/start.html Slides][]
+[Slides](http://www.weftsoar.net/~hdp/talk/meta-moose/slides/start.html)

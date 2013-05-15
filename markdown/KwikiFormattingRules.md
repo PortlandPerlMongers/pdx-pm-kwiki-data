@@ -1,4 +1,4 @@
-This page describes the wiki markup language used by this kwiki.  For a more general help, see KwikiHelpIndex.
+This page describes the wiki markup language used by this kwiki.  For a more general help, see [KwikiHelpIndex](/KwikiHelpIndex).
 
 ---
 
@@ -39,35 +39,79 @@ This page describes the wiki markup language used by this kwiki.  For a more gen
 ---
 
 The horizontal lines in this page are made with 4 or more dashes:
-  ----
-----
+
+    ----
+
+---
+
 Paragraphs are separated by a blank line.
 
 Like this. Another paragraph.
-  Paragraphs are separated by a blank line.
+
+    Paragraphs are separated by a blank line.
 
     Like this. Another paragraph.
 
 ---
 
-**Bold text**, /italic text/, and _underscore text_.
-  **Bold text**, /italic text/, and _underscore text_.
-/**Combination of bold and italics**/
-  /**Combination of bold and italics**/
-Inline code like [=/etc/passwd][] or [=CGI::Kwiki][]
-  Inline code like [=/etc/passwd][] or [=CGI::Kwiki][]
-----
-WikiLinks are formed by two or more words in /camel-case/.
-  WikiLinks are formed by two or more words in /camel-case/.
-External links begin with http://[][][][][][][][]
+**Bold text**, _italic text_, and _underscore text_.
+
+    *Bold text*, /italic text/, and _underscore text_.
+
+_**Combination of bold and italics**_
+
+    /*Combination of bold and italics*/
+
+Inline code like `/etc/passwd` or `CGI::Kwiki`
+
+    Inline code like [=/etc/passwd] or [=CGI::Kwiki]
+
+---
+
+[WikiLinks](/WikiLinks) are formed by two or more words in _camel-case_.
+
+    WikiLinks are formed by two or more words in /camel-case/.
+
+External links begin with http://, like http://www.freepan.org
+
+    External links begin with http://, like http://www.freepan.org
+
+Forced wiki [links](/links) are a alphnumeric string surrounded by square brackets.
+
+    Forced wiki [links] are a alphnumeric string surrounded by square brackets.
+
+Named http links have text with an http:// link inside, like [FreePAN Site](http://www.freepan.org)
+
+    Named http links have text with an http:// link inside, like [FreePAN http://www.freepan.org Site]
+
+Sometimes WordsShouldNotMakeAWikiLink so put a '!' beforehand.
+
+    Sometimes !WordsShouldNotMakeAWikiLink so put a '!' beforehand.
+
+Same thing with http://foobar.com
+
+    Same thing with !http://foobar.com
+
+Mailto links are just email addresses like foo@bar.com.
+
+    Mailto links are just email addresses like foo@bar.com.
+
+---
+
+Links to images display the image:
 
 http://www.google.com/images/logo.gif
 
+    http://www.google.com/images/logo.gif
+
+---
+
+Unordered lists begin with a '* '. The number of asterisks determines the level:
+
 * foo
-* bar* boom
-* bam
-
-
+* bar
+  * boom
+  * bam
 * baz
 
     * foo
@@ -84,12 +128,15 @@ Ordered lists begin with a '0 ' (zero):
 00 boom
 00 bam
 0 baz
-  0 foo
-  0 bar
-  00 boom
-  00 bam
-  0 baz
-----
+
+    0 foo
+    0 bar
+    00 boom
+    00 bam
+    0 baz
+
+---
+
 You can mix lists too:
 
 * Today:
@@ -101,23 +148,25 @@ You can mix lists too:
 
 00 Eat more icecream
 00 Buy another pony
-  * Today:
-  00 Eat icecream
-  00 Buy a pony
-  * Tommorrow:
-  00 Eat more icecream
-  00 Buy another pony
-----
+
+    * Today:
+    00 Eat icecream
+    00 Buy a pony
+    * Tommorrow:
+    00 Eat more icecream
+    00 Buy another pony
+
+---
+
 Any text that does not begin in the first column is rendered as preformatted text.
-      foo   bar
-       x     y
-       1     2
-----
+
+    foo   bar
+     x     y
+     1     2
+
+---
+
 You can comment out wiki-text with '# ' at the beginning of a line. This will make the text an html comment:
-
-# These lines have been 
-
-# commented out
 
     # These lines have been 
     # commented out
@@ -130,7 +179,6 @@ Simple Tables:
 | height | 72" | 65" |
 | weight | 130lbs | 150lbs |
 
-
     |        | Dick   | Jane |
     | height | 72"    | 65"  |
     | weight | 130lbs | 150lbs |
@@ -141,32 +189,31 @@ Tables with multiline or complex data:
 
 | <<END | <<END |
 
-
 This data has vertical | bars |
 END
 
-# This is some Perl code:
-
 sub foo {
+
     print "I want a kwiki!\n"
+
 }
 END
 
 | foo | <<MSG |
 
-
 As you can see we use
 the Perl heredoc syntax.
 MSG
-  | <<END | <<END |
-  This data has vertical | bars |
-  END
-  # This is some Perl code:
-  sub foo {
-      print "I want a kwiki!\n"
-  }
-  END
-  | foo | <<MSG |
-  As you can see we use
-  the Perl heredoc syntax.
-  MSG
+
+    | <<END | <<END |
+    This data has vertical | bars |
+    END
+    # This is some Perl code:
+    sub foo {
+        print "I want a kwiki!\n"
+    }
+    END
+    | foo | <<MSG |
+    As you can see we use
+    the Perl heredoc syntax.
+    MSG

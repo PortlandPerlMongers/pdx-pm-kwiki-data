@@ -30,13 +30,13 @@ Here's a list of the talks from last time we did this:
 * Annett Sullivan - Perl and Water Quality (with GD animations!)
 * Jeff Zucker - Everything is database. Nothing is database
 * Josh Heumann - Perljxta, an implementation of Sun's JXTA P2P protocols
-* Michael G. Schwern - MakeMaker Is Doomed
+* Michael G. Schwern - [MakeMaker](/MakeMaker) Is Doomed
 * Brian Ingerson - Two Tails of OOP Adventures in Data-Driven Design
 * Brian Ingerson - Lightn-ingy Strikes Twice
-* Ben Marcotte - From the Dark Side Back to the Light How having to use Win32::TieRegistry led to experimenting with "hierarchical" hashes
+* Ben Marcotte - From the Dark Side Back to the Light How having to use Win32::[TieRegistry](/TieRegistry) led to experimenting with "hierarchical" hashes
 * Clint Moore - Experiences Gained From Working Alone on a Large Project
 
-There are even more examples at [Perl Paraphernalia http://perl.plover.com/lt][].
+There are even more examples at [Perl Paraphernalia](http://perl.plover.com/lt).
 
 **Q: I still have questions!**
-Mark-Jason probably answers your question on [Perl Paraphernalia's "Lightning Talks" page http://perl.plover.com/lt][].
+Mark-Jason probably answers your question on [Perl Paraphernalia's "Lightning Talks" page](http://perl.plover.com/lt).

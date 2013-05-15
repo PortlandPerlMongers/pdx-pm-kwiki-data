@@ -1,8 +1,8 @@
-Yet Another [=/\bRandall?\b/][]
+Yet Another `/\bRandall?\b/`
 
-ex-Perl Monger for [SuperSurvey Online Surveys http://www.supersurvey.com][]
+ex-Perl Monger for [SuperSurvey Online Surveys](http://www.supersurvey.com)
 
-Now investing in the business of technology with [Voyager Capital http://voyagercapital.com][]
+Now investing in the business of technology with [Voyager Capital](http://voyagercapital.com)
 
 Notes on fixing things, technical and non, at
 

@@ -1,8 +1,8 @@
 # Final design 2006
 
-http://pdx.pm.org/res/img/shirt2006-a.png
+http://pdx.pm.org/res/img/shirt2006-a.png Front
 
-http://pdx.pm.org/res/img/shirt2006-b.png
+http://pdx.pm.org/res/img/shirt2006-b.png Back
 
 And one can be yours for a donation of $25 or more to the Portland Perl Mongers.
 

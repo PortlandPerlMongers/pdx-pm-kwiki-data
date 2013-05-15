@@ -8,4 +8,4 @@ It's a little Perl 6 syntax, a little Parrot, a little PGE, and a little Pugs.
 
 If any of that confuses you, Allison has all the answers, and she'll be enlightening minds on Wednesday.
 
-Slides are [http://www.lohutok.net/talks/p6update.pdf online][](PDF)
+Slides are [online](http://www.lohutok.net/talks/p6update.pdf)(PDF)

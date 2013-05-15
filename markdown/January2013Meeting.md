@@ -6,4 +6,4 @@ Introducing Sqitch, simple SQL change management that doesn’t suck. Sqitch doe
 
 So come to this talk to learn all about Sqitch: How it works, where to get it, and how to get the most out of managing database deployments.
 
-David Wheeler is Senior Data Architect at iovation and an associate at [PGExperts http://www.pgexperts.com/][]. He is responsible, among other things, for [PGXN http://pgxn.org/][], [pgTAP http://pgtap.org/][], [DesignScene http://www.designsceneapp.com/][], and way too many [CPAN modules https://metacpan.org/author/DWHEELER][]. He lives in Portland unless he’s traveling with his family.
+David Wheeler is Senior Data Architect at iovation and an associate at [PGExperts](http://www.pgexperts.com/). He is responsible, among other things, for [PGXN](http://pgxn.org/), [pgTAP](http://pgtap.org/), [DesignScene](http://www.designsceneapp.com/), and way too many [CPAN modules](https://metacpan.org/author/DWHEELER). He lives in Portland unless he’s traveling with his family.

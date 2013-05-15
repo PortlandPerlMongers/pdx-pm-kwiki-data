@@ -1,51 +1,45 @@
-Somewhere on the web, there should be a compendium of useful (or near-useful) Perl Regular Expressions (also called patterns, regexes, and !REs). Does it already exist? Until we can link to a more authoritative list from this page, let's put them here.
+Somewhere on the web, there should be a compendium of useful (or near-useful) Perl Regular Expressions (also called patterns, regexes, and REs). Does it already exist? Until we can link to a more authoritative list from this page, let's put them here.
 
 ---
 
 ## Regexp::Common
 
-The [=Regexp::Common][] module provides some commonly-needed patterns. See http://search.cpan.org/~abigail/Regexp-Common-2.113/
+The `Regexp::Common` module provides some commonly-needed patterns. See http://search.cpan.org/~abigail/Regexp-Common-2.113/
 
 ---
 
 ## The Patterns
 
-Reader beware: Although we do our best to keep these accurate, the KwikiFormattingRules (and careless editing) may mangle some of these patterns. Use them at your own risk! (And help everybody out: Correct the bugs when you find them.)
+Reader beware: Although we do our best to keep these accurate, the [KwikiFormattingRules](/KwikiFormattingRules) (and careless editing) may mangle some of these patterns. Use them at your own risk! (And help everybody out: Correct the bugs when you find them.)
 
 These are somewhat modified from the perlfaq, section 4:
 
 | <<NONDIGITS | has nondigits |
 
-
-/\D/
+_\D_
 NONDIGITS
 
 | <<WHOLE | a whole number |
 
-
-/^\d+$/
+_^\d+$_
 WHOLE
 
 | <<INT | an integer |
 
-
-/^-?\d+$/
+_^-?\d+$_
 INT
 
 | <<SIGNED | an integer which may or may not have a leading + sign |
 
-
-/^[+\-][]?\d+$/
+_^$l?\d+$_
 SIGNED
 
 | <<REAL | real number |
 
-
-/^-?\d+\.?\d*$/
+_^-?\d+\.?\d*$_
 REAL
 
 | <<DECIMAL | decimal (real) number |
-
 
 /^-?(?:\d+(?:\.\d*)?|
 \.\d+)$/x
@@ -53,17 +47,19 @@ DECIMAL
 
 | <<FLOAT | C-style float |
 
+/^($l?) (?=\d|\.\d)\d*(\.\d*)?
 
-/^([+-][]?) (?=\d|\.\d)\d*(\.\d*)?
-  ([Ee][]([+-][]?\d+))?$/x
+    ([Ee]([+-]?\d+))?$/x
+
 FLOAT
 
 | <<RBFLOAT | Root beer float |
 
+_\broot\s+beer\b_ &&
 
-/\broot\s+beer\b/ &&
-  /\bice\s+cream\b/ &&
-  /\bstraw\b/
+    /\bice\s+cream\b/ &&
+    /\bstraw\b/
+
 RBFLOAT
 
 ---
@@ -94,6 +90,7 @@ Use this to check for text that **looks** like an email address:
     my $valid_email=1 if $email=~m|^[\w.\-]+\@[\w.\-]+\.\w{2,3}$|;
 
 But beware! Some valid addresses don't match that pattern, through no fault of their owners. Send e-mail to Fred & Barney if you don't believe it:
+
     Fred and Barney <"fred&barney"@redcat.com>
 
 ---

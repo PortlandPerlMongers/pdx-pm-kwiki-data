@@ -9,10 +9,10 @@ Please volunteer to pick an example or two to review.  Just look for something w
 Agenda:
 
 * your name here - problem link
-* Eric - [http://rosettacode.org/wiki/Sum_digits_of_an_integer Sum Digits of an Integer][]
-* Igal - [http://rosettacode.org/wiki/99_Bottles_of_Beer 99 Bottles of Beer][]
-* Anthony - [http://rosettacode.org/wiki/Fibonacci_n-step_number_sequences#Perl_6 n-onacci][]
+* Eric - [Sum Digits of an Integer](http://rosettacode.org/wiki/Sum_digits_of_an_integer)
+* Igal - [99 Bottles of Beer](http://rosettacode.org/wiki/99_Bottles_of_Beer)
+* Anthony - [n-onacci](http://rosettacode.org/wiki/Fibonacci_n-step_number_sequences#Perl_6)
 
-* you - [http://rosettacode.org/wiki/Sorting_algorithms/Strand_sort Strand Sort][] - from Larry's state of the onion
+* you - [Strand Sort](http://rosettacode.org/wiki/Sorting_algorithms/Strand_sort) - from Larry's state of the onion
 
-See also: [https://github.com/rakudo/star/downloads/ Rakudo Star][] [https://github.com/sorear/niecza/ Niecza][]
+See also: [Rakudo Star](https://github.com/rakudo/star/downloads/) [Niecza](https://github.com/sorear/niecza/)

@@ -1,6 +1,6 @@
 **How to Lie Like a Geek**
 
-speaker: MichaelSchwern
+speaker: [MichaelSchwern](/MichaelSchwern)
 
 Geeks have a special relationship with The Truth. Nothing is more important than correcting a falsehood, no matter how small, and nothing is more odious than not telling The Truth. Unfortunately, in speaking The Whole Truth and Nothing But The Truth, the meaning is often mangled and the end result is the opposite, a lie.
 
@@ -9,6 +9,6 @@ We’ll examine some ways geeks lie while telling The Truth, to themselves and t
 Some examples include: Lies by omission, lies by precision, lies by irrelevancy, lies by design, lies with statistics and that most dangerous of words “should” as in “the user should have realized”.
 
 There will be cake.
-[http://tinyurl.com/mermtx][]
+http://tinyurl.com/mermtx
 
-As always, the meeting will be followed by social hour at the LuckyLab.
+As always, the meeting will be followed by social hour at the [LuckyLab](/LuckyLab).

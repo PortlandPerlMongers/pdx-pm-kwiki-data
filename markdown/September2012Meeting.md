@@ -9,12 +9,11 @@ Ian will cover what it's like for n00bs learning how to create a new Perl module
 * Where rookies look for "Getting Started" information
 * Which tools we can readily find for the job
 * What kinds of questions we have about namespaces
-* What Ian would like to do to help:* Listen to your answers
-* Format them into some kind of guide (or supplement an existing one)
-* Hand it to a Perl expert to post in the right place
-* Commit to checking in a couple of times a year to keep the information current
-
-
+* What Ian would like to do to help:
+  * Listen to your answers
+  * Format them into some kind of guide (or supplement an existing one)
+  * Hand it to a Perl expert to post in the right place
+  * Commit to checking in a couple of times a year to keep the information current
 
 You will be vastly enlightened, or horrified.
 

@@ -1,4 +1,4 @@
-JoshHeumann
+[JoshHeumann](/JoshHeumann)
 
     alias brc='vim ~/.bashrc'
     alias sbrc='source ~/.bashrc'
@@ -19,7 +19,7 @@ JoshHeumann
 
 ---
 
-EricWilhelm
+[EricWilhelm](/EricWilhelm)
 
     # pretty colors (may need "export PS1...")
     PS1='\n\[\033[45m\]\u@\h: \[\033[49m\]\[\033[31m\]\w\n\[\033[0m\]\[\033[45m\]#\[\033[0m\]\t \[\033[45m\]$\[\033[0m\] '
@@ -28,7 +28,7 @@ EricWilhelm
 
 ---
 
-TomHeady
+[TomHeady](/TomHeady)
 
     # exclude *.svn\* files from all grep searches
     export GREP_OPTIONS="--exclude=\\*.svn\\*"
@@ -54,7 +54,7 @@ TomHeady
 
 ---
 
-[chromatic][]
+[chromatic](/chromatic)
 The most useful tip is:
 
     source ~/.aliases
@@ -76,7 +76,7 @@ Now put everything that annoys you in your alias file.  Some good ones are:
 
 ---
 
-AdamMonsen
+[AdamMonsen](/AdamMonsen)
 
     # only do the following during an interactive prompt
     if [ "$PS1" ]

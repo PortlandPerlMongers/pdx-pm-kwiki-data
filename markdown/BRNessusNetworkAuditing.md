@@ -20,7 +20,7 @@ Renaud Deraison.".
 ### What I liked:
 
 * The layout is easy to follow & you know what's going to come next, which increases the books readability.
-* /Lots/ of good generic security info, especially in the sidebars.  For a security newbie, the book is worth reading for  that info even if you're not interested in using nessus.
+* _Lots_ of good generic security info, especially in the sidebars.  For a security newbie, the book is worth reading for  that info even if you're not interested in using nessus.
 * When there's more than one way to do something, the advantages & disadvantages of both are clearly discussed.
 * Very clear writing style.
 * Each chapter has a "summary"; a "solutions fasttrack", a bulleted list of the material covered in the chapter; and a FAQ.

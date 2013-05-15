@@ -1,5 +1,5 @@
 The link that you were following is a private page.
 
-Click [http:admin.cgi here][] to login.
+Click [here](http:admin.cgi) to login.
 
-See: KwikiPrivacy
+See: [KwikiPrivacy](/KwikiPrivacy)

@@ -4,9 +4,9 @@
 
 Speaker: Eric Wilhelm
 
-Presenting techniques and tools for parallelizing and distributing 
-tasks across multiple cores or nodes with perl (and mostly on *nix.)  
-The focus is on clean architecture, cross-platform clustering, and 
+Presenting techniques and tools for parallelizing and distributing
+tasks across multiple cores or nodes with perl (and mostly on *nix.)
+The focus is on clean architecture, cross-platform clustering, and
 removing the distinctions between SMP and clustering.
 
 * basics:          models and laws

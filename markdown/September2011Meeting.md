@@ -1,6 +1,6 @@
 "Now on 2nd Thursdays" Social.
 
-Meeting was at the LuckyLab.
+Meeting was at the [LuckyLab](/LuckyLab).
 
 The kwiki was (mostly) resurrected on the new server.  It took somewhere between 0.5 and 7 hours to install.
 

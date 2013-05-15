@@ -6,6 +6,6 @@ Thursday March 14th - 6:53pm at Free Geek
 
 * Mouse vs Moose vs Moo, when to use which?  --Schwern
 * Moose, Mouse, and Moo performance -- Dana Jacobsen
-* Zeus and Contradictory.pm -- EricWilhelm
+* Zeus and Contradictory.pm -- [EricWilhelm](/EricWilhelm)
 * Reindeer -- Chris Weyl
 * MOP in the core -- Duke Leto

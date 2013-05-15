@@ -4,8 +4,8 @@
 
 **Testing with Ovid**
 
-Lecture notes: [RPG-Dice.tar.gz http://pdx.pm.org/RPG-Dice.tar.gz][]
+Lecture notes: [RPG-Dice.tar.gz](http://pdx.pm.org/RPG-Dice.tar.gz)
 
 We hear a lot about testing, including testimonials, talks, rants, etc.  However, the biggest obstacle to testing is taking those first steps.  At this meeting, Ovid (that's me) will sit down at his laptop and actually write a module, from scratch, using test driven development.  You'll see how tests work, how they're applied in the real world and you might even learn a thing or two even if you're already comfortable with testing.
 
-Afterwards, as always, beer at the [Lucky Lab http://www.luckylab.com/lab_hawth.html][]!
+Afterwards, as always, beer at the [Lucky Lab](http://www.luckylab.com/lab_hawth.html)!

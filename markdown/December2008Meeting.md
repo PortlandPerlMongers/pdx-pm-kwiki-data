@@ -5,11 +5,10 @@ This will be  a "hack session" where there is a small "briefing" at the beginnin
 
 The end of the meeting will be a short wrap-up where people voice there experience on working on Rakudo (what needs to be made easier? what rocks? what sucks? what do you want to work on next time?).
 
-Please have the svn repo of Parrot installed prior to meeting if you can: https://svn.perl.org/parrot/trunk/
+Please have the svn repo of Parrot installed prior to meeting if you can: https://svn.perl.org/parrot/trunk/ (it takes a while to download).
 
 ## Expectations for the evening
 
 * explore any progress on the REPL/debugger
-* try and get a handle on any info that would be needed to create a Moose -> Perl6 doc* I cant seem to find one, could also just be a lacking in my google-fu
-
-
+* try and get a handle on any info that would be needed to create a Moose -> Perl6 doc
+  * I cant seem to find one, could also just be a lacking in my google-fu

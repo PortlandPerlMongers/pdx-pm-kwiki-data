@@ -1,6 +1,6 @@
 ### wxPerl:  What I had to Learn the Hard Way
 
-EricWilhelm talked about how to get started with the Perl bindings to the wxwidgets GUI toolkit.  Eric has spent the last several months designing and building a large (7.5kLOC and growing in 62 modules) system complete with a comprehensive test suite, pluggable, reskinnable architecture, network-transparent connectivity, blah, blah, blah (ok, the blah part is done, but I'm still working on some of the other bits.)
+[EricWilhelm](/EricWilhelm) talked about how to get started with the Perl bindings to the wxwidgets GUI toolkit.  Eric has spent the last several months designing and building a large (7.5kLOC and growing in 62 modules) system complete with a comprehensive test suite, pluggable, reskinnable architecture, network-transparent connectivity, blah, blah, blah (ok, the blah part is done, but I'm still working on some of the other bits.)
 
 * overview
 * how cross platform is it?
@@ -10,4 +10,4 @@ EricWilhelm talked about how to get started with the Perl bindings to the wxwidg
 * creating a sane object-oriented architecture while using an event-driven toolkit
 * testing
 
-Chris Dawson at [http://www.webcastinabox.com WebCast in a Box][] is graciously hosting a [http://www.podasp.com/episodes/P/PD/PDX.pm/1058.mp3 podcast][] of this talk, which was recorded on his donated equipment.
+Chris Dawson at [WebCast in a Box](http://www.webcastinabox.com) is graciously hosting a [podcast](http://www.podasp.com/episodes/P/PD/PDX.pm/1058.mp3) of this talk, which was recorded on his donated equipment.

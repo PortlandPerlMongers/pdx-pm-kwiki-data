@@ -1,6 +1,6 @@
-This site is powered by [Kwiki http://www.kwiki.org][].  RandallHansen  is tweaking it with the following goals:
+This site is powered by [Kwiki](http://www.kwiki.org).  [RandallHansen](/RandallHansen)  is tweaking it with the following goals:
 0 Valid XHTML and CSS,
-0 Accessible to people with disabilities and non-GUI and non-!JavaScript browsers,
+0 Accessible to people with disabilities and non-GUI and non-JavaScript browsers,
 0 Separation of content and presentation using CSS for layout.
 
 It's a work in progress, and there are bugs.  This is the perfect place to list them.
@@ -11,10 +11,9 @@ It's a work in progress, and there are bugs.  This is the perfect place to list 
 
 ### Markup bugs (hmmm ... that doesn't validate)
 
-* These bugs are fixed but the code isn't live yet:* Images don't have [=alt][] attribute
-* Some tags aren't closed ([=li, hr, img][])
-
-
+* These bugs are fixed but the code isn't live yet:
+  * Images don't have `alt` attribute
+  * Some tags aren't closed (`li, hr, img`)
 
 ### Accessibility bugs (is it usable with a screen reader?)
 

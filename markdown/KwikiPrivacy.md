@@ -5,7 +5,8 @@ Kwiki allows the administrator of the website to set a privacy level on each pag
 * Private - Only the administrator can read or edit.
 
 By default, all pages are public.
-----
+
+---
 
 ### Installation
 
@@ -14,11 +15,12 @@ You need to turn on the privacy feature. It is not installed by default. To do s
     kwiki-install --privacy
 
 inside your Kwiki installation directory.
-----
+
+---
 
 ### Server Configuration
 
-You'll also need to modify your web server configuration to make the program [=admin.cgi][] protected by an authentication scheme. Here's an example of how you might do it with Apache:
+You'll also need to modify your web server configuration to make the program `admin.cgi` protected by an authentication scheme. Here's an example of how you might do it with Apache:
 
     Alias /kwiki/ /home/ingy/kwiki/
     <Directory /home/ingy/kwiki/>
@@ -39,14 +41,14 @@ You'll also need to set the administrative password. With Apache you can simply 
 
     htpasswd -bc passwd admin foo
 
-which will set the [=admin][] password to [=foo][].
+which will set the `admin` password to `foo`.
 
 ---
 
 ### Administration
 
-To login as the site administrator, go to [admin.cgi http:admin.cgi][] instead of [index.cgi http:index.cgi][]. If everything is set up correctly, you should be prompted for a password.
+To login as the site administrator, go to [admin.cgi](http:admin.cgi) instead of [index.cgi](http:index.cgi). If everything is set up correctly, you should be prompted for a password.
 
-Enter [=admin][] for the username and [=foo][] (or whatever password you selected) for the password. 
+Enter `admin` for the username and `foo` (or whatever password you selected) for the password.
 
 After you've logged in, you should be able to set the privacy level on pages when you edit them.

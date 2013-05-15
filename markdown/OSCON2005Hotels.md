@@ -1,8 +1,8 @@
 ## Hotels for OSCON 2005
 
-Advice from the locals on where to stay for [OSCON 2005 http://conferences.oreillynet.com/os2005/][].
+Advice from the locals on where to stay for [OSCON 2005](http://conferences.oreillynet.com/os2005/).
 
-The Convention Center has its own MAX light rail stop and is inside "fareless square". This means many hotels in downtown Portland are a free ride away from OSCON. Visit http://www.trimet.org
+The Convention Center has its own MAX light rail stop and is inside "fareless square". This means many hotels in downtown Portland are a free ride away from OSCON. Visit http://www.trimet.org. With the Trip Planner you can look up how long it will take to get to the Convention Center from any hotel, get walking directions to the nearest MAX stop from the hotel, and find out whether the stop is in fareless square.
 
 "My wife's family stayed at the Mallory Hotel a year ago. It was very pleasant and right on the Max train route, so it's easy to get to the Convention Center." --Tom Keller
 
@@ -20,22 +20,22 @@ No details yet, but I wonder if they mean:
 
 A few inexpensive places to stay:
 
-The [Hawthorne Hostel http://www.portlandhostel.org/][]
+The [Hawthorne Hostel](http://www.portlandhostel.org/)
 
 * Clean, friendly, about $20/night for dorm, $45/night for a private room.
 * Short, direct bus ride to the conference.
 * Free wireless.
 * Powell's annex nearby.
 
-The [NW Hostel http://www.2oregonhostels.com/nw_home.htm][]
+The [NW Hostel](http://www.2oregonhostels.com/nw_home.htm)
 
 * Similar attributes to the above.
 * Bigger Powell's. :)
-* Trimet estimates 30 minutes (14 minutes walking). The PGE Park station isn't in fareless square, but Zone 1 tickets are $1.35 for one (I don't think you can buy singles anymore -- BrettWarden) or [$12.50 for 10 http://www.trimet.org/store/onezone.htm][] (enough for the week).
+* Trimet estimates 30 minutes (14 minutes walking). The PGE Park station isn't in fareless square, but Zone 1 tickets are $1.35 for one (I don't think you can buy singles anymore -- [BrettWarden](/BrettWarden)) or [$12.50 for 10](http://www.trimet.org/store/onezone.htm) (enough for the week).
 
 ---
 
-Hotels from [last year http://conferences.oreillynet.com/pub/w/29/alternate_hotels.html][] and their proximity to the 2005 conference:
+Hotels from [last year](http://conferences.oreillynet.com/pub/w/29/alternate_hotels.html) and their proximity to the 2005 conference:
 
 Hilton Portland & Executive Tower
 
@@ -44,7 +44,7 @@ Hilton Portland & Executive Tower
 Days Inn City Center
 
 * Trimet estimates 13 minutes (4 minutes walking). 6th & Jefferson is in fareless square.
-* (It got bad reviews in 2004. --AllisonRandal)
+* (It got bad reviews in 2004. --[AllisonRandal](/AllisonRandal))
 
 Embassy Suites Hotel Portland-Downtown
 

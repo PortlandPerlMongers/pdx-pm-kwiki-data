@@ -6,16 +6,16 @@ What: Perl in the Workplace: The Good, the Bad, and the Pugly
 
 An open discussion of how people use Perl in the workplace, for everything from small scripts to large-scale applications.
 
-Who: 
+Who:
 
-ChrisDawson:  I'll be talking about my company's product: Webcast in a Box, a webcasting solution built with Perl using components like HTML::Mason on Apache & DBD::mysql.
+[ChrisDawson](/ChrisDawson):  I'll be talking about my company's product: Webcast in a Box, a webcasting solution built with Perl using components like HTML::Mason on Apache & DBD::mysql.
 
-[Ovid http://users.easystreet.com/ovid/][]: Talked in vauge terms about the framework for composing complex queries that his company uses.
+[Ovid](http://users.easystreet.com/ovid/): Talked in vauge terms about the framework for composing complex queries that his company uses.
 
-Thanks to ChrisDawson for the topic suggestion.
+Thanks to [ChrisDawson](/ChrisDawson) for the topic suggestion.
 
-[Video (in RealPlayer format) http://www.webcastinabox.com/presentations/pdx-pm/pdx-pm.ram ][]
+[Video (in RealPlayer format)](http://www.webcastinabox.com/presentations/pdx-pm/pdx-pm.ram)
 
-[PDF of Presentation http://www.webcastinabox.com/presentations/pdx-pm/pdx-pm.pdf][]
+[PDF of Presentation](http://www.webcastinabox.com/presentations/pdx-pm/pdx-pm.pdf)
 
-[Presentation in OpenOffice Impress Format (PPT) http://www.webcastinabox.com/presentations/pdx-pm/pdx-pm.sxi][]
+[Presentation in OpenOffice Impress Format (PPT)](http://www.webcastinabox.com/presentations/pdx-pm/pdx-pm.sxi)

@@ -1,1 +1,1 @@
-chromatic runs [http://www.modernperlbooks.com/ Modern Perl Books][], co-owns [http://www.onyxneon.com/ Onyx Neon][], and edits of [http://www.perl.com/ Perl.com][].  He is a lead developer of Parrot, a designer of Perl 6, a contributor to Perl 5, and a napper.
+chromatic runs [Modern Perl Books](http://www.modernperlbooks.com/), co-owns [Onyx Neon](http://www.onyxneon.com/), and edits of [Perl.com](http://www.perl.com/).  He is a lead developer of Parrot, a designer of Perl 6, a contributor to Perl 5, and a napper.

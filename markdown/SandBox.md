@@ -4,15 +4,12 @@ Tom Keller is asking about ordered lists on the email list.
 
 I thought
 
-#. item 1
-#. item 2
-
-or 
+or
 
     1. item 1
     1. item 2
 
-would work 
+would work
 
 but 0 (zero) is the key
 
@@ -25,13 +22,8 @@ How 'bout nesting ordered and unordered
 0 one
 0 two
 00 sub two
-
-* sub sub two
-
-
+** sub sub two
 0 three - this doesn't work with my kwiki set up
-
-* so there must be a plugin here that I don't have installed and/or added
-
+** so there must be a plugin here that I don't have installed and/or added
 
 THANKS

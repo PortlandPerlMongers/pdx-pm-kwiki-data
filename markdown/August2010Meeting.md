@@ -4,19 +4,19 @@
 
 ### Relational DB vs Key-Value Store and Beyond
 
-Speaker Panel: SelenaDeckelmann, IgalKoshevoy, JeffLavallee, DavidWheeler
+Speaker Panel: [SelenaDeckelmann](/SelenaDeckelmann), [IgalKoshevoy](/IgalKoshevoy), [JeffLavallee](/JeffLavallee), [DavidWheeler](/DavidWheeler)
 
 This will be a panel discussion about the ups, downs, ins, and outs of
 relational, row, key-value, hierarchical, and distributed data stores (simplistic buzzwordiness:  SQL vs NOSQL aka ACID CRUD.)
 
 The panel will discuss parallelism, scale, data integrity,
-normalization, business logic, !ORMs, and maybe flat files.  They might
+normalization, business logic, ORMs, and maybe flat files.  They might
 take questions from the audience.  Some of the following might be asked or answered:
 
 * why do you want a relational DB?
 * why do you not want a relational DB?
-* Membase, !MongoDB, Redis, Cassandra
-* Tokyo Tyrant, !CouchDB, old school K/V (zodb, bdb)
+* Membase, MongoDB, Redis, Cassandra
+* Tokyo Tyrant, CouchDB, old school K/V (zodb, bdb)
 * distinctions between "relational" and "row store"
 * how filesystem settings affect the database
 * how important is your data?
@@ -26,7 +26,7 @@ take questions from the audience.  Some of the following might be asked or answe
 * sharding
 * what is "scale" and do you need it?
 * massively denormalized, or massively normalized?
-* !ORMs, materialized views, indexes, and the query planner
+* ORMs, materialized views, indexes, and the query planner
 * typical performance with small/large, simple/complex data sets
 
 As always, the meeting will be followed by social hour at the Lucky Lab.

@@ -1,6 +1,6 @@
 # July2010Meeting
 
-Wed. July 14th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+Wed. July 14th, 6:53pm at [FreeGeek](/FreeGeek) -- 1731 SE 10th Ave.
 
 ## Rakudo Feet Wettening
 
@@ -8,7 +8,7 @@ speaker: you and us
 
 The Rakudo * release of Perl 6 on Parrot is almost here. Whether you want to get your own feet wet, or help wetten someone else's feet, join us to write some Perl 6 code and share some learning.
 
-We'll begin with introductions, cover some basics, and then work in small groups or pairs for about an hour, followed by a recap, then (of course) social hour at the LuckyLab.
+We'll begin with introductions, cover some basics, and then work in small groups or pairs for about an hour, followed by a recap, then (of course) social hour at the [LuckyLab](/LuckyLab).
 
 If you can bring a laptop, download and install rakudo ahead of time:
 
@@ -20,4 +20,4 @@ If you can bring a laptop, download and install rakudo ahead of time:
     $ PATH=$PWD/parrot_install/bin/:$PATH
     $ perl6 -e 'say "Hello World"'
 
-For more info, see http://rakudo.org
+For more info, see http://rakudo.org.

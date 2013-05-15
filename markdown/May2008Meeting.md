@@ -18,4 +18,4 @@ Wil will present an overview of IMAP covering the following topics:
 * Sieve, a special-purpose scripting language for mail filtering
 * Scripting on-line mail processing with Perl
 
-[http://nakedape.cc/info/IMAP-Perl/ slides][]
+[slides](http://nakedape.cc/info/IMAP-Perl/)

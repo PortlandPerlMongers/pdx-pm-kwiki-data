@@ -3,7 +3,7 @@ my wife, four sons (3, 6, 9, and 12 years old), and Twinkles
 the wondercat.
 
 I work downtown in the Fox Tower. I am VP of Systems Engineering
-for CollegeNET, Inc. We do online admissions apps for about 650
+for [CollegeNET](/CollegeNET), Inc. We do online admissions apps for about 650
 colleges and universities, and membership and donation forms for
 nonprofits. Last year we processed about 950,000 college applications.
 I started working on the forms engine in 1996. It is written in Perl.

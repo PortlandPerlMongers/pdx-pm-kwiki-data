@@ -4,17 +4,17 @@ We’ll examine some ways geeks lie while telling The Truth, to themselves and t
 
 Some examples include: Lies by omission, lies by precision, lies by irrelevancy, lies by design, lies with statistics and that most dangerous of words “should” as in “the user should have realized”.
 
-There will be [http://homepage.mac.com/joester5/writing/images/the-cake-is-a-lie.png cake][].
+There will be [cake](http://homepage.mac.com/joester5/writing/images/the-cake-is-a-lie.png).
 
 ---
 
 Meeting we actually had:
 
-### Euler Bench, GSoC, Parrot, cake ...
+### Euler Bench, [GSoC](/GSoC), Parrot, cake ...
 
 Schwern will be out of town, so the meeting topic has changed at the last minute. Jonathan Leto will give updates of The Perl Foundation's involvement in Google Summer of Code 2009, as well as a short rundown of recent milestones in Parrot/Perl 6/Rakudo development. (chromatic probably has some good stuff to say about these things as well)
 
 Euler_bench update: benchmarking Parrot/Rakudo/Perl 5 with the Euler Project:
-http://github.com/notbenh/euler_bench/tree
+http://github.com/notbenh/euler_bench/tree.  Bring your own Euler solutions in whatever language -- we'll compare algorithms and runtimes, plus learn more about rakudo.
 
 <lie> There will be cake.</lie>

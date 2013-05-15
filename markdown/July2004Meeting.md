@@ -2,11 +2,11 @@
 
 #### July 14, 2004 6:30pm at Free Geek, 1741 SE 10th Ave
 
-Notes for this meeting are at [ http://www.danga.com/words/2004_pdx_pm_perlbal/
+Notes for this meeting are at [](http://www.danga.com/words/2004_pdx_pm_perlbal/)
 
 **Perlbal, by Brad Fitzpatrick**
 
-Brad Fitzpatrick is the founder and fearless leader of !LiveJournal.com, an Open Source project and company focused on blogging and social networking with over 3,000,000 accounts, over half of which are in active use. His specialties have come to include Perl, frightening !MySQL replication topologies, load balancing, distributed caching, scalability, and
+Brad Fitzpatrick is the founder and fearless leader of LiveJournal.com, an Open Source project and company focused on blogging and social networking with over 3,000,000 accounts, over half of which are in active use. His specialties have come to include Perl, frightening MySQL replication topologies, load balancing, distributed caching, scalability, and
 high-availability. He dislikes buying unnecessary hardware and commercial software. As such, he finds or creates ways to get more out of hardware, the open source way.
 
 Perlbal

@@ -5,9 +5,9 @@ Speaker: Ben Hengst
 Moose is a cute, fuzzy module (which just happens to share its name with
 a big smelly creature.)
 
-Er, it is a postmodern object system which allows you to remove much of 
-the hairiness from your object-oriented Perl code.  Moose borrows 
-features from Perl 6, CLOS (LISP), Smalltalk, Java, BETA, OCaml, Ruby 
+Er, it is a postmodern object system which allows you to remove much of
+the hairiness from your object-oriented Perl code.  Moose borrows
+features from Perl 6, CLOS (LISP), Smalltalk, Java, BETA, OCaml, Ruby
 and more.
 
 Ben will present a brief introduction to Moose, followed by an overview

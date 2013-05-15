@@ -1,3 +1,3 @@
 # Unit Test Your Database!
 
-speaker: DavidWheeler
+speaker: [DavidWheeler](/DavidWheeler)

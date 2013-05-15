@@ -1,6 +1,6 @@
 # Perl in the 21st Century
 
-speaker:  EricWilhelm
+speaker:  [EricWilhelm](/EricWilhelm)
 
 I started using Perl just over six years ago, when 5.6.2 was already
 getting old and 5.8.1 was on the way.  By the time I put my first module
@@ -24,4 +24,4 @@ all?
 I will try to find answers to some of these questions and invite you to bring
 questions (or answers!) of your own.
 
-[http://scratchcomputing.com/software/developers/talks/perl21st/ Slides][] and [http://pdxpm.podasp.com/archive.html Podcast][]
+[Slides](http://scratchcomputing.com/software/developers/talks/perl21st/) and [Podcast](http://pdxpm.podasp.com/archive.html)

@@ -1,6 +1,6 @@
 ## Ship It!
 
-/review by/ EricWilhelm
+_review by_ [EricWilhelm](/EricWilhelm)
 
 **Authors:** Jared Richardson, William A. Gwaltney
 
@@ -8,9 +8,9 @@
 
 **ISBN:** 0-9745140-4-7
 
-200 pp, $29.95 US, $41.95 CA, £20.95 UK 
+200 pp, $29.95 US, $41.95 CA, £20.95 UK
 
-**Intended audience:** 
+**Intended audience:**
 
 Everyone from programmers to project managers.  Even if you are not in a position to make decisions, you might only be reading it to confirm
 that sinking feeling that you are on a sinking ship.  Technical leads will probably benefit most from this book.  If you are a manager and you
@@ -18,7 +18,7 @@ do not have a technical lead, you must read this book!
 
 ### What I liked:
 
-* /Lots/ of good, pragmatic advice.
+* _Lots_ of good, pragmatic advice.
 * Links to recommended software, often open-source.
 * "How to do it" and "Is it working?" sidebars provide condensed information specifically designed to help you put these ideas into practice.
 * Very logical, usable layout.
@@ -63,18 +63,13 @@ This chapter enumerates and addresses 18 problems ranging from unhappy customers
 
 Lots of information here.  Most notably, the list of tools and URL's (which really should be in clickable form somewhere.)  The book has a lot more links, but since I am doing the typing and most of theirs are fairly Java-specific, I will cherry-pick and add a few of my own here.
 
-* Source Code Management:* http://subversion.tigris.org/
-
-
-* Build Scripting Tools:* http://search.cpan.org/search?module=Module::Build
-
-
-* Continuous Integration Systems:* http://damagecontrol.codehaus.org/
-
-
-* Issue Tracking:* http://www.bestpractical.com/rt/
-
-
-* Testing Frameworks:* http://search.cpan.org/search?module=Test::More
-
-
+* Source Code Management:
+  * http://subversion.tigris.org/
+* Build Scripting Tools:
+  * http://search.cpan.org/search?module=Module::Build
+* Continuous Integration Systems:
+  * http://damagecontrol.codehaus.org/
+* Issue Tracking:
+  * http://www.bestpractical.com/rt/
+* Testing Frameworks:
+  * http://search.cpan.org/search?module=Test::More

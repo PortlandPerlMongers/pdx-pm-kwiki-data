@@ -1,29 +1,24 @@
 # Speakers Wanted
 
-A list of possible FutureMeetings topics.  If you have expertise you would like to share with the group that covers one of these topics, please contact FearlessJosh with your availability.
+A list of possible [FutureMeetings](/FutureMeetings) topics.  If you have expertise you would like to share with the group that covers one of these topics, please contact [FearlessJosh](/FearlessJosh) with your availability.
 
-* How to Know What to Steal* Choosing good modules from CPAN and other general advice on finding and evaluating open-source code.
+* How to Know What to Steal
+  * Choosing good modules from CPAN and other general advice on finding and evaluating open-source code.
 
+* Writing Effective Subroutines and Modules
+  * introductory / best practices / design principles
+  * variable naming / scoping / packages
 
+* Perl Version Compatibility
+  * Core modules / features introduced when?
+  * version.pm, etc.
 
-* Writing Effective Subroutines and Modules* introductory / best practices / design principles
-* variable naming / scoping / packages
+* My Ten Worst Ideas Ever
+  * possibly a round-table
 
-
-
-* Perl Version Compatibility* Core modules / features introduced when?
-* version.pm, etc.
-
-
-
-* My Ten Worst Ideas Ever* possibly a round-table
-
-
-
-* Perl Windowing Systems* Tk
-* ??
-
-
+* Perl Windowing Systems
+  * Tk
+  * ??
 
 * Perl Testing
 

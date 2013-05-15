@@ -8,7 +8,7 @@ The only two Emacs keybindings I know are Ctrl-A and Ctrl-E for jumping to the s
 
 ---
 
-TomHeady
+[TomHeady](/TomHeady)
 
 my .screenrc file:
 
@@ -31,7 +31,7 @@ my .screenrc file:
 
 ---
 
-AdamMonsen
+[AdamMonsen](/AdamMonsen)
 
     # .screenrc
     # $Id: ScreenRCFile,v 1.2 2008/01/12 17:01:57 apache Exp apache $

@@ -1,11 +1,11 @@
-Brian "ingy" Ingerson is a Perl devotee and [CPAN http://search.cpan.org/author/INGY/][] module author. His modules include CGI::Kwiki which is the Wiki software you are presently using.
+Brian "ingy" Ingerson is a Perl devotee and [CPAN](http://search.cpan.org/author/INGY/) module author. His modules include CGI::Kwiki which is the Wiki software you are presently using.
 
-He has a dream to see the communities of all the /agile programming languages/ (Perl, Python, PHP, Ruby) working together. He is attempting to facilitate this in many ways including:
+He has a dream to see the communities of all the _agile programming languages_ (Perl, Python, PHP, Ruby) working together. He is attempting to facilitate this in many ways including:
 
-* [YAML http://www.yaml.org][]
-* [FreePAN http://www.freepan.org][]
-* [FIT http://fit.freepan.org][]
-* [Moss http://moss.freepan.org][]
+* [YAML](http://www.yaml.org)
+* [FreePAN](http://www.freepan.org)
+* [FIT](http://fit.freepan.org)
+* [Moss](http://moss.freepan.org)
 
 He can be contacted at:
 

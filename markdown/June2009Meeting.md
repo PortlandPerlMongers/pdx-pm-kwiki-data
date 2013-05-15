@@ -1,10 +1,10 @@
-# !TestML - generic testing meta language
+# TestML - generic testing meta language
 
 speaker: Ingy döt Net
 
-[http://search.cpan.org/dist/TestML TestML][] is a testing meta language which allows you to create data-driven unit tests that are programming language agnostic.
+[TestML](http://search.cpan.org/dist/TestML) is a testing meta language which allows you to create data-driven unit tests that are programming language agnostic.
 
-See http://www.testml.org/
+See http://www.testml.org/ for more information on TestML.
 
     # A sample TestML document
     %TestML: 1.0
@@ -26,4 +26,4 @@ See http://www.testml.org/
     Xxxx xx
     xxx xxxxx
 
-A podcast of this talk is [http://pdxpm.podasp.com/archive.html?pname=meetings.xml here][]
+A podcast of this talk is [here](http://pdxpm.podasp.com/archive.html?pname=meetings.xml)

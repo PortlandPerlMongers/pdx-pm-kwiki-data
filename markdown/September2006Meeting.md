@@ -21,14 +21,14 @@ Remove from grill and serve with locally brewed beer.
 
 #### THE PANEL:
 
-* hacker -- [http://kineticode.com David Wheeler][] is principal of Kineticode, an open-source software development and support company. Best known as the maintainer of the Bricolage CMS, he is lately hacking object-relational mappers, developing an integrated query language for Perl, and creating custom PostgreSQL data types.
+* hacker -- [David Wheeler](http://kineticode.com) is principal of Kineticode, an open-source software development and support company. Best known as the maintainer of the Bricolage CMS, he is lately hacking object-relational mappers, developing an integrated query language for Perl, and creating custom [PostgreSQL](/PostgreSQL) data types.
 
 * machinist -- Dan Falck is a guitar and bass player who is into music of all kinds. By day, he works for King Cycle Group on tooling design, shop equipment, project planning, and QC -- which is like riding a bike after 14 years at Gibson Guitar.  Dan shares his lifelong joy of woodworking with his wife of 15 years and their kids (ages 8, 12, and 14.)  He also finds time to machine and engrave guitar parts using linux-powered CNC, program in Python, and peruse the FORTRAN^W C code of an APT processor.
 
-* writer -- [http://www.bentopress.com David D. Levine][] is an award-winning science fiction writer.  His stories have been published in such magazines as Asimov's, Fantasy & Science Fiction, and Realms of Fantasy, and 3 of them have appeared in Year's Best anthologies.  He recently won the Hugo Award for his story [http://www.asimovs.com/_issue_0604_5/tk.shtml "Tk'Tk'Tk."][] In his day job he is a user interface designer for !McAfee; he has also worked as a software engineer and as a technical writer.
+* writer -- [David D. Levine](http://www.bentopress.com) is an award-winning science fiction writer.  His stories have been published in such magazines as Asimov's, Fantasy & Science Fiction, and Realms of Fantasy, and 3 of them have appeared in Year's Best anthologies.  He recently won the Hugo Award for his story ["Tk'Tk'Tk."](http://www.asimovs.com/_issue_0604_5/tk.shtml) In his day job he is a user interface designer for McAfee; he has also worked as a software engineer and as a technical writer.
 
 ### Podcast
 
-You know the drill.  For the complete list and to learn about our podcasting sponsor, see the [http://pdxpm.podasp.com/archive.html?pname=meetings.xml archive page][].  For your slashdotting convenience, here is the
-[http://www.podasp.com/episodes/P/PD/PDX.pm/1013.mp3 direct link][] and a
-[http://podasp.com:8000/P/PD/PDX.pm/1013.mp3.m3u streaming link][].
+You know the drill.  For the complete list and to learn about our podcasting sponsor, see the [archive page](http://pdxpm.podasp.com/archive.html?pname=meetings.xml).  For your slashdotting convenience, here is the
+[direct link](http://www.podasp.com/episodes/P/PD/PDX.pm/1013.mp3) and a
+[streaming link](http://podasp.com:8000/P/PD/PDX.pm/1013.mp3.m3u).

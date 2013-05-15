@@ -4,9 +4,9 @@
 
 Topic: The Guts of Perl (and why you should care)
 
-[Slides http://scratchcomputing.com/developers/perl_guts_tour.html][]
+[Slides](http://scratchcomputing.com/developers/perl_guts_tour.html)
 
-[Podcast http://pdxpm.podasp.com/archive.html?pname=meetings.xml][]
+[Podcast](http://pdxpm.podasp.com/archive.html?pname=meetings.xml)
 
 Presenter: Eric Wilhelm
 
@@ -26,7 +26,7 @@ Agenda:
 * Comparisons between B and PPI approaches.
 * (likely more heckling)
 * Example code, case studies, and esoteric observations.
-* (beer at the LuckyLab)
+* (beer at the [LuckyLab](/LuckyLab))
 
 Applications:
 

@@ -2,11 +2,11 @@
 
 ## Hudson - your digital monkey butler!
 
-speaker: JeffLavallee
+speaker: [JeffLavallee](/JeffLavallee)
 
-[Hudson http://hudson-ci.org/][] is an open source [Continuous Integration http://en.wikipedia.org/wiki/Continuous_integration][]  server
+[Hudson](http://hudson-ci.org/) is an open source [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration)  server
 
-The talk is aimed at folks new to Continuous Integration and new to Hudson.  
+The talk is aimed at folks new to Continuous Integration and new to Hudson.
 
 Topic include:
 

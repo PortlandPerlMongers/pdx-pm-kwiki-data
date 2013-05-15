@@ -1,1 +1,1 @@
-I am [http://www.justatheory.com/ here][].
+I am [here](http://www.justatheory.com/).

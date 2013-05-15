@@ -1,4 +1,4 @@
-Speaker:  [gabrielle][]
+Speaker:  [gabrielle](/gabrielle)
 
 Topic:  A Sitter for Cisco Syslogs
 
@@ -15,4 +15,4 @@ our network fault-management system. We'll go over:
 You don't need to be a Cisco engineer or even know much Perl to get
 something out of this talk.
 
-[http://pdxpm.podasp.com/archive.html?pname=meetings.xml Podcast][] and [http://www.baconandtech.com/2008/11/14/cisco-syslog-parser-slides/ Slides][]
+[Podcast](http://pdxpm.podasp.com/archive.html?pname=meetings.xml) and [Slides](http://www.baconandtech.com/2008/11/14/cisco-syslog-parser-slides/)

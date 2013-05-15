@@ -6,9 +6,9 @@ There are basically three levels of customization you can do with a kwiki site. 
 
 There are 2 directories in your kwiki installation that contain files that control the layout and appearance of your web pages:
 
-* [=template][]
-* [=css][]
+* `template`
+* `css`
 
-You can change the html and css files anyway that suits you. It is generally best to copy the modified files into [=template/local][] and [=css/local][]. This way your changes will not be overwritten if you later do a [=kwiki-install --upgrade][].
+You can change the html and css files anyway that suits you. It is generally best to copy the modified files into `template/local` and `css/local`. This way your changes will not be overwritten if you later do a `kwiki-install --upgrade`.
 
 ### Perl Code Changes

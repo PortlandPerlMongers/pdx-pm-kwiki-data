@@ -1,1 +1,1 @@
-See this page instead: [gabrielle][] :P
+See this page instead: [gabrielle](/gabrielle) :P

@@ -1,9 +1,7 @@
-CGI::Kwiki has a !PowerPoint-like slideshow built in. Give it a try.
+CGI::Kwiki has a PowerPoint-like slideshow built in. Give it a try.
 
 **Click Here to start the slideshow**:
-[&SLIDESHOW_SELECTOR][]
-
-# title: Intro to Kwiki SlideShow
+$l
 
 ---
 
@@ -41,9 +39,8 @@ CGI::Kwiki has a !PowerPoint-like slideshow built in. Give it a try.
 ## Bugs
 
 * Everything works in Mozilla and IE
-* Some browsers do not seem to respond well to the onkeypress events.* Often you can get around this by using backspace or delete to go back a slide.
-
-
+* Some browsers do not seem to respond well to the onkeypress events.
+  * Often you can get around this by using backspace or delete to go back a slide.
 
 ---
 

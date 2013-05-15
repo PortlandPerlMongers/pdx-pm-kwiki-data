@@ -1,1 +1,1 @@
-Likes [bubbles http://sonofhans.net/bubbles][].
+Likes [bubbles](http://sonofhans.net/bubbles).

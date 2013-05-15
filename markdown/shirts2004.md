@@ -6,30 +6,30 @@ It will have a larger version of last year's logo, with a phrase like "#!/usr/bi
 
 If you want a button, but not a shirt, it will be $1.  Sign up anyway and say you just want a button.
 
-* JoshHeumann, 1M
-* ChrisDawson 2L
-* CaseyFeskens 1S (if you can get it)
-* JohnCallahan, 1L
-* RobBloodgood, 1XL
-* JoshuaKeroes, 1M
-* AllisonRandal, 1M, 1XL
+* [JoshHeumann](/JoshHeumann), 1M
+* [ChrisDawson](/ChrisDawson) 2L
+* [CaseyFeskens](/CaseyFeskens) 1S (if you can get it)
+* [JohnCallahan](/JohnCallahan), 1L
+* [RobBloodgood](/RobBloodgood), 1XL
+* [JoshuaKeroes](/JoshuaKeroes), 1M
+* [AllisonRandal](/AllisonRandal), 1M, 1XL
 * chromatic, 1XL -$
-* JoeOppegaard, 2M
-* ChrisValaas 1XL
-* JeffZucker, 2XL
-* DavidWheeler 1M
-* !ClintMoore, 1XXL
-* MichaelRasmussen, 1 XL
+* [JoeOppegaard](/JoeOppegaard), 2M
+* [ChrisValaas](/ChrisValaas) 1XL
+* [JeffZucker](/JeffZucker), 2XL
+* [DavidWheeler](/DavidWheeler) 1M
+* ClintMoore, 1XXL
+* [MichaelRasmussen](/MichaelRasmussen), 1 XL
 
-* DavidPool, 1XL
-* RandallHansen 1M, 2XL
+* [DavidPool](/DavidPool), 1XL
+* [RandallHansen](/RandallHansen) 1M, 2XL
 
 * AJWeinzettel, 1L
-* RandallLucas 1XL
-* NickWehr 1XL
-* MikeHitchcock, 1XL, 1XXL
-* ToddCaine, 1L
-* StephenWickman, 1XL
-* ThomasKeller, 1 XL
-* BruceKeeler, 1 XL
-* KevinLong, 1 XL
+* [RandallLucas](/RandallLucas) 1XL
+* [NickWehr](/NickWehr) 1XL
+* [MikeHitchcock](/MikeHitchcock), 1XL, 1XXL
+* [ToddCaine](/ToddCaine), 1L
+* [StephenWickman](/StephenWickman), 1XL
+* [ThomasKeller](/ThomasKeller), 1 XL
+* [BruceKeeler](/BruceKeeler), 1 XL
+* [KevinLong](/KevinLong), 1 XL
