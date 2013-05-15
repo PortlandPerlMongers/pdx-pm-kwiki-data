@@ -12,7 +12,7 @@ Second:
 * Make a new directory in your Apache cgi-bin.
 * Go into this directory and run:
 
-  kwiki-install
+    kwiki-install
 
 Third:
 
@@ -25,14 +25,14 @@ Third:
 
 Here's a sample Apache config section that may help.
 
-  Alias /kwiki/ /home/ingy/kwiki/
-  <Directory /home/ingy/kwiki/>
-      Order allow,deny
-      Allow from all
-      AllowOverride None
-      Options ExecCGI
-      AddHandler cgi-script .cgi
-  </Directory>
+    Alias /kwiki/ /home/ingy/kwiki/
+    <Directory /home/ingy/kwiki/>
+        Order allow,deny
+        Allow from all
+        AllowOverride None
+        Options ExecCGI
+        AddHandler cgi-script .cgi
+    </Directory>
 
 Adjust to your needs.
 

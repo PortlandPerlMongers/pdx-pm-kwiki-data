@@ -1,6 +1,6 @@
 # Hands on Perl 6
 
-  Wed. October 8th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wed. October 8th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 Come join us for a hands-on session of learning to use Perl 6 and running rakudo.
 
@@ -16,7 +16,10 @@ If you can bring a computer, please try to have a running Perl 6 /before/ the me
 
 If you have a fairly well-equipped development system with Perl 5 and a C compiler, you should have no problems compiling from the svn:
 
-  svn co https://svn.perl.org/parrot/trunk
+    svn co https://svn.perl.org/parrot/trunk parrot
+    cd parrot
+    perl Configure.pl
+    make perl6
 
 [http://www.parrotcode.org/source.html****
 

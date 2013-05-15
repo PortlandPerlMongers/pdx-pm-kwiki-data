@@ -1,6 +1,6 @@
 ## April2010Meeting
 
-  Wed. April 14th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wed. April 14th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 ### The Amazing Incredible Miracle of [http://search.cpan.org/dist/DBIx-Class DBIx::Class][]
 

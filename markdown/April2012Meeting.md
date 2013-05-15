@@ -1,4 +1,4 @@
-  Thu. April 12th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
+    Thu. April 12th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
 
 # Modern Web Frameworks Panel
 
@@ -8,7 +8,7 @@ While Plack/PSGI is a vastly more flexible, maintainable, deployable, and scalab
 
 Panel members:
 
-  Ben:  Dancer demo
-  Joshua: a second person to answer Dancer questions
-  Clay: CGI to Plack conversion
-  Eric: server options for testing and deployment
+    Ben:  Dancer demo
+    Joshua: a second person to answer Dancer questions
+    Clay: CGI to Plack conversion
+    Eric: server options for testing and deployment

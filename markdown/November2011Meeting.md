@@ -1,4 +1,4 @@
-  Thu. November 10th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
+    Thu. November 10th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
 
 # DCI: A new way to OOP.
 

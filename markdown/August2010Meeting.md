@@ -1,6 +1,6 @@
 ## August2010Meeting
 
-  Wed. August 11th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wed. August 11th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 ### Relational DB vs Key-Value Store and Beyond
 

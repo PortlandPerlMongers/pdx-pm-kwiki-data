@@ -1,4 +1,4 @@
-  Thursday, July 12th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
+    Thursday, July 12th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
 
 # Programming in the Future + Intro to Dist::Zilla
 

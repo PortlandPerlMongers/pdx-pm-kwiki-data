@@ -1,6 +1,6 @@
 ## December Meeting
 
-  Wednesday Dec 13th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wednesday Dec 13th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 # SVK
 

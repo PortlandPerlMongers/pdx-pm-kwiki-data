@@ -1,6 +1,6 @@
 # CI Throwdown
 
-  Thu. November 8th, 6:53pm at at FreeGeek – 1731 SE 10th Ave.
+    Thu. November 8th, 6:53pm at at FreeGeek – 1731 SE 10th Ave.
 
 speaker: Jonathan "Duke" Leto
 

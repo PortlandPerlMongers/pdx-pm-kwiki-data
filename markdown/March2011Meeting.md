@@ -1,4 +1,4 @@
-  Wed. March 9th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
+    Wed. March 9th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
 
 ## Show Off Your Project
 

@@ -1,6 +1,6 @@
 # June2011Meeting
 
-  Wed. June 8th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
+    Wed. June 8th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
 
 # Introduction to Moose
 

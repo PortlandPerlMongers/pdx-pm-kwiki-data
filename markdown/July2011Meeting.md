@@ -1,6 +1,6 @@
 # July2011Meeting
 
-  Wed. July 13th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
+    Wed. July 13th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
 
 # Perl 6 Modules
 

@@ -1,4 +1,4 @@
-  Thu. December 8th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
+    Thu. December 8th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
 
 # [http://pegex.org Pegex][]
 

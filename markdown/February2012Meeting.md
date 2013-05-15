@@ -1,4 +1,4 @@
-  Thu. February 9th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
+    Thu. February 9th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
 
 # Code cleanup and refactoring without the "scary".
 

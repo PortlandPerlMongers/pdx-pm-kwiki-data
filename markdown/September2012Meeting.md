@@ -1,4 +1,4 @@
-  Thursday, September 13th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
+    Thursday, September 13th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
 
 # CPAN Modules Not With h2xs + Dist::Zilla and Pod::Weaver
 

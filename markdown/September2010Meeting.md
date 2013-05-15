@@ -1,6 +1,6 @@
 # September2010Meeting
 
- Wed. September 8th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wed. September 8th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 ## Modern Perl / Test::Builder2
 

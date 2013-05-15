@@ -52,8 +52,8 @@ CGI::Kwiki has a !PowerPoint-like slideshow built in. Give it a try.
 * Here is some Javascript code:
 
     function changeSlide(i) {
-        var myForm = document.getElementsByTagName("form")[0][];
-        var myNum = myForm.getElementsByTagName("input")[0][];
+        var myForm = document.getElementsByTagName("form")[0];
+        var myNum = myForm.getElementsByTagName("input")[0];
         i = i * 1;
         myVal = myNum.value * 1;
         myNum.value = myVal + i;
@@ -67,5 +67,7 @@ CGI::Kwiki has a !PowerPoint-like slideshow built in. Give it a try.
         return $self->cgi->size ? $self->open_window 
                                 : $self->slide;
     }
-----
-== The End ==
+
+---
+
+## The End

@@ -1,3 +1,3 @@
-  Wed. February 9th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
+    Wed. February 9th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
 
 ## Worst Useful Hack - Lightning Talks

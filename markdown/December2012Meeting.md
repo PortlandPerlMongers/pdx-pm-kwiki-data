@@ -1,4 +1,4 @@
-  Thursday, December 13th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
+    Thursday, December 13th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
 
 # Prime Number Generation in Perl
 

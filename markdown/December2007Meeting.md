@@ -1,6 +1,6 @@
 ## December2007Meeting
 
-  Wed. December 12th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wed. December 12th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 ### Erlang -- The Perl of Functional Languages / POE -- The Erlang of Perl
 

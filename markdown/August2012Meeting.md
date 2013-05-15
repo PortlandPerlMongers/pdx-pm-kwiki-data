@@ -1,4 +1,4 @@
-  Thursday, August 9th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
+    Thursday, August 9th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
 
 # rosettacode.org chrestomathy review
 

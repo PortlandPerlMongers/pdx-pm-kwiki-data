@@ -1,6 +1,6 @@
 # !FreeTUIT - Codeless GUI Programming
 
-  Wed. December 9th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wed. December 9th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 Speaker: EricWilhelm
 

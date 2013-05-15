@@ -70,15 +70,15 @@ RBFLOAT
 
 US/Canada-style phone number with required area code and no "1" prefix:
 
- /
-    \(?     # optional parentheses
-      \d{3} # area code required
-    \)?     # optional parentheses
-    [-\s.][]? # separator is either a dash, a space, or a period.
-      \d{3} # 3-digit prefix
-    [-.][]    # another separator
-      \d{4} # 4-digit line number
- /x
+    /
+       \(?     # optional parentheses
+         \d{3} # area code required
+       \)?     # optional parentheses
+       [-\s.]? # separator is either a dash, a space, or a period.
+         \d{3} # 3-digit prefix
+       [-.]    # another separator
+         \d{4} # 4-digit line number
+    /x
 
 That pattern was shamelessly stolen from http://www.onlamp.com/pub/a/onlamp/2003/08/21/regexp.html
 
@@ -91,7 +91,7 @@ http://ali.as/devel/newlines.html
 
 Use this to check for text that **looks** like an email address:
 
-   my $valid_email=1 if $email=~m|^[\w.\-][]+\@[\w.\-][]+\.\w{2,3}$|;
+    my $valid_email=1 if $email=~m|^[\w.\-]+\@[\w.\-]+\.\w{2,3}$|;
 
 But beware! Some valid addresses don't match that pattern, through no fault of their owners. Send e-mail to Fred & Barney if you don't believe it:
     Fred and Barney <"fred&barney"@redcat.com>

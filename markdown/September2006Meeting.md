@@ -1,6 +1,6 @@
 ## Craftsmanship Panel
 
-  Wednesday Sept 13th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wednesday Sept 13th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 #### INGREDIENTS:
 

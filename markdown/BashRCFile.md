@@ -22,16 +22,16 @@ JoshHeumann
 EricWilhelm
 
     # pretty colors (may need "export PS1...")
-    PS1='\n\[\033[45m\][]\u@\h: \[\033[49m\][]\[\033[31m\][]\w\n\[\033[0m\][]\[\033[45m\][]#\[\033[0m\][]\t \[\033[45m\][]$\[\033[0m\][] '
+    PS1='\n\[\033[45m\]\u@\h: \[\033[49m\]\[\033[31m\]\w\n\[\033[0m\]\[\033[45m\]#\[\033[0m\]\t \[\033[45m\]$\[\033[0m\] '
     # and red for root
-    PS1='\n\[\033[41m\][]\u@\h: \[\033[49m\][]\[\033[31m\][]\w\n\[\033[0m\][]\[\033[41m\][]#\[\033[0m\][]\t \[\033[41m\][]#\[\033[0m\][] '
+    PS1='\n\[\033[41m\]\u@\h: \[\033[49m\]\[\033[31m\]\w\n\[\033[0m\]\[\033[41m\]#\[\033[0m\]\t \[\033[41m\]#\[\033[0m\] '
 
 ---
 
 TomHeady
 
-    # exclude **.svn\** files from all grep searches
-    export GREP_OPTIONS="--exclude=\\**.svn\\**"
+    # exclude *.svn\* files from all grep searches
+    export GREP_OPTIONS="--exclude=\\*.svn\\*"
 
     # if there is a detached screen session, reattach
     # otherwise, create one
@@ -40,10 +40,10 @@ TomHeady
     # auto launch screen, unless we are already in a screen session
     # or we are in a dumb terminal.
     # also, put which screen window at the beginning of the
-    # prompt: [0][] or [1][] ...
+    # prompt: [0] or [1] ...
     case $TERM in
     screen*)
-        PROMPT_COMMAND='echo -n [$WINDOW][]\ '
+        PROMPT_COMMAND='echo -n [$WINDOW]\ '
         ;;
     dumb*)
         ;;
@@ -126,4 +126,13 @@ AdamMonsen
       esac
 
       # ~ the Emotiprompt(TM) ~
-      # idea came from: http://linuxgazette.net/122/lg_tips.html#tips.1[][]
+      # idea came from: http://linuxgazette.net/122/lg_tips.html#tips.1
+      smiley() {
+         err=$?
+         if [ $err == 0 ]
+         then echo ':)'
+         else echo ":( $err"
+         fi
+      }
+      PS1="\$(smiley) [\u@\h \W]\\$ "
+    fi

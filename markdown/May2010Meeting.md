@@ -1,6 +1,6 @@
 ## May2010Meeting
 
-  Wed. May 12th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wed. May 12th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 ### Introduction to, and call for feedback on the Fennec testing framework
 

@@ -1,9 +1,9 @@
-  Wednesday Nov 8th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wednesday Nov 8th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 ### Crucible
 
-  "An Automatic Slicing, Dicing, and Rebooting Test Harness"
-  with Bryce Harrington
+    "An Automatic Slicing, Dicing, and Rebooting Test Harness"
+    with Bryce Harrington
 
 Crucible is a test harness in use at OSDL which utilizes several Perl 
 modules, along with a mess of bash scripts, to provide a generalized 

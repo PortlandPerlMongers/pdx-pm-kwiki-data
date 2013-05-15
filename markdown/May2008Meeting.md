@@ -1,4 +1,4 @@
-  Wed. May 14, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wed. May 14, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 Speaker: Wil Cooley
 

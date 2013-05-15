@@ -1,4 +1,4 @@
-  Wed. November 10th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
+    Wed. November 10th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
 
 ## Hudson - your digital monkey butler!
 

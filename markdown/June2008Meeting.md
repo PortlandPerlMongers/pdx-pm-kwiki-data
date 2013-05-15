@@ -1,4 +1,4 @@
-  Wed. June 11th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wed. June 11th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 Speaker: Jay Shirley
 

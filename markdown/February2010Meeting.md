@@ -1,4 +1,4 @@
-  Wed. February 10th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wed. February 10th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 ### Introduction to Parrot Virtual Machine
 

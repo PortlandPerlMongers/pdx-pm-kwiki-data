@@ -1,4 +1,4 @@
-  Thu. October 13th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
+    Thu. October 13th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
 
 # Shebangml: a markup language with bacon
 

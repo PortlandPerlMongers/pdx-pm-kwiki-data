@@ -10,13 +10,13 @@ The following is a description of a module I (Ovid) keep meaning to write, but d
 
 # SYNOPSIS
 
- use Class::CGI (
-     customer_id => Class::CGI::Customer
- );
+    use Class::CGI (
+        customer_id => Class::CGI::Customer
+    );
 
- my $cgi      = Class::CGI->new;
- my $customer = $cgi->param('customer_id');
- my $name     = $customer->name;
+    my $cgi      = Class::CGI->new;
+    my $customer = $cgi->param('customer_id');
+    my $name     = $customer->name;
 
 # DESCRIPTION
 

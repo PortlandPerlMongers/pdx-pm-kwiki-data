@@ -1,4 +1,4 @@
-  Thu. March 8th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
+    Thu. March 8th, 6:53pm at FreeGeek – 1731 SE 10th Ave.
 
 # !VoteFair ranking: Math-based voting power for the 99%
 

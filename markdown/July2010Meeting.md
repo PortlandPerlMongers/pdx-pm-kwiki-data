@@ -12,12 +12,12 @@ We'll begin with introductions, cover some basics, and then work in small groups
 
 If you can bring a laptop, download and install rakudo ahead of time:
 
-  $ git clone git://github.com/rakudo/rakudo.git
-  $ cd rakudo
-  $ perl Configure.pl --gen-parrot
-  $ make
-  $ make install
-  $ PATH=$PWD/parrot_install/bin/:$PATH
-  $ perl6 -e 'say "Hello World"'
+    $ git clone git://github.com/rakudo/rakudo.git
+    $ cd rakudo
+    $ perl Configure.pl --gen-parrot
+    $ make
+    $ make install
+    $ PATH=$PWD/parrot_install/bin/:$PATH
+    $ perl6 -e 'say "Hello World"'
 
 For more info, see http://rakudo.org

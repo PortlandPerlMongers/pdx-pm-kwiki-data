@@ -1,4 +1,4 @@
-  Wed.  April 9th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wed.  April 9th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 ### im in ur database - PL/LOLCODE
 

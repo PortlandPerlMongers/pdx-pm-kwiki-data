@@ -6,24 +6,24 @@ speaker: Ingy döt Net
 
 See http://www.testml.org/
 
-  # A sample TestML document
-  %TestML: 1.0
-  %Plan: 3
+    # A sample TestML document
+    %TestML: 1.0
+    %Plan: 3
 
-  text.encodeText('x') == result_x;
-  text.encodeText('y') == result_y;
+    text.encodeText('x') == result_x;
+    text.encodeText('y') == result_y;
 
-  === Single line text encoding
-  --- text: This is some text
-  --- result_x: Xxxx xx xxxx xxxx
-  --- result_y: Yyyy yy yyyy yyyy
+    === Single line text encoding
+    --- text: This is some text
+    --- result_x: Xxxx xx xxxx xxxx
+    --- result_y: Yyyy yy yyyy yyyy
 
-  === Multiline text encoding
-  --- text
-  This is
-  two lines
-  --- result_x
-  Xxxx xx
-  xxx xxxxx
+    === Multiline text encoding
+    --- text
+    This is
+    two lines
+    --- result_x
+    Xxxx xx
+    xxx xxxxx
 
 A podcast of this talk is [http://pdxpm.podasp.com/archive.html?pname=meetings.xml here][]

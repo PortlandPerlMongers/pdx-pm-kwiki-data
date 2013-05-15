@@ -4,23 +4,40 @@ This page describes the wiki markup language used by this kwiki.  For a more gen
 
 # Level 1 Heading (H1)
 
-  = Level 1 Heading (H1) =
-----
-== Level 2 Heading (H2) ==
-  == Level 2 Heading (H2) ==
-----
-=== Level 3 Heading (H3) ===
-  === Level 3 Heading (H3) ===
-----
-==== Level 4 Heading (H4)
-  ==== Level 4 Heading (H4)
-----
-===== Level 5 Heading (H5)
-  ===== Level 5 Heading (H5)
-----
-====== Level 6 Heading (H6)
-  ====== Level 6 Heading (H6)
-----
+    = Level 1 Heading (H1) =
+
+---
+
+## Level 2 Heading (H2)
+
+    == Level 2 Heading (H2) ==
+
+---
+
+### Level 3 Heading (H3)
+
+    === Level 3 Heading (H3) ===
+
+---
+
+#### Level 4 Heading (H4)
+
+    ==== Level 4 Heading (H4)
+
+---
+
+##### Level 5 Heading (H5)
+
+    ===== Level 5 Heading (H5)
+
+---
+
+###### Level 6 Heading (H6)
+
+    ====== Level 6 Heading (H6)
+
+---
+
 The horizontal lines in this page are made with 4 or more dashes:
   ----
 ----
@@ -29,8 +46,10 @@ Paragraphs are separated by a blank line.
 Like this. Another paragraph.
   Paragraphs are separated by a blank line.
 
-  Like this. Another paragraph.
-----
+    Like this. Another paragraph.
+
+---
+
 **Bold text**, /italic text/, and _underscore text_.
   **Bold text**, /italic text/, and _underscore text_.
 /**Combination of bold and italics**/
@@ -51,12 +70,14 @@ http://www.google.com/images/logo.gif
 
 * baz
 
-  * foo
-  * bar
-  ** boom
-  ** bam
-  * baz
-----
+    * foo
+    * bar
+    ** boom
+    ** bam
+    * baz
+
+---
+
 Ordered lists begin with a '0 ' (zero):
 0 foo
 0 bar
@@ -97,9 +118,11 @@ You can comment out wiki-text with '# ' at the beginning of a line. This will ma
 1. These lines have been 
 1. commented out
 
-  # These lines have been 
-  # commented out
-----
+    # These lines have been 
+    # commented out
+
+---
+
 Simple Tables:
 
 |  | Dick | Jane |
@@ -107,10 +130,12 @@ Simple Tables:
 | weight | 130lbs | 150lbs |
 
 
-  |        | Dick   | Jane |
-  | height | 72"    | 65"  |
-  | weight | 130lbs | 150lbs |
-----
+    |        | Dick   | Jane |
+    | height | 72"    | 65"  |
+    | weight | 130lbs | 150lbs |
+
+---
+
 Tables with multiline or complex data:
 
 | <<END | <<END |

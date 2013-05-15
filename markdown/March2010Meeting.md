@@ -1,6 +1,6 @@
 ## March2010Meeting
 
-  Wed. March 10th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wed. March 10th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 ### How to learn to parse huge XML documents by doing it wrong for 5 years
 

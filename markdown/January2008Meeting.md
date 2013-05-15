@@ -1,4 +1,4 @@
-  Wed. January 9th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wed. January 9th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 ### Parallel and Distributed Perl
 

@@ -1,6 +1,6 @@
 ## April2007Meeting -- Live Parrot Sketch
 
-  Wed. April 11th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wed. April 11th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 [chromatic][] talked about parrot.
 

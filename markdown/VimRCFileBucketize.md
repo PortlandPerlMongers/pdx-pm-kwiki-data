@@ -1,6 +1,6 @@
     " Bucketize.vim
     "
-    " Author: Randall Hansen (mailto:vim@sonofhans.net)
+    " Author: Randall Hansen (vim@sonofhans.net)
     " Version: .01
     " ----------------------------------------------------------------------------
     "
@@ -19,6 +19,7 @@
         finish
     endif
     let loaded_bucketize = 1
+
 
     map ,' lbi'<ESC>ea'<ESC>
     map ," lbi"<ESC>ea"<ESC>

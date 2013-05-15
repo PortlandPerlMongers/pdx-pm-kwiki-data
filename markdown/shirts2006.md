@@ -18,18 +18,18 @@ Send valid YAML to Portland Perl Mongers <pdx-pm-list at mail dot pm dot org> or
 
 XXL will cost extra (note, at this point, there will be no XXL unless we get enough orders to justify another printing run.)
 
- -------------------------------------------------------------
- address: if you want it shipped
- name: your name here
- pickup: at next meeting or elsewhere
- quantity:
-  L: 0
-  M: 0
-  S: 0
-  WL: 0
-  WM: 0
-  WS: 0
-  X: 0
-  XL: 0
-  XXL: 0
- -------------------------------------------------------------
+    -------------------------------------------------------------
+    address: if you want it shipped
+    name: your name here
+    pickup: at next meeting or elsewhere
+    quantity:
+     L: 0
+     M: 0
+     S: 0
+     WL: 0
+     WM: 0
+     WS: 0
+     X: 0
+     XL: 0
+     XXL: 0
+    -------------------------------------------------------------

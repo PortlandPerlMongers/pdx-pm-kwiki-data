@@ -1,6 +1,6 @@
 ## September2007Meeting
 
-  Wed. September 12th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
+    Wed. September 12th, 6:53pm at FreeGeek -- 1731 SE 10th Ave.
 
 ### Getting (hopefully just your feet) Wet with Catalyst
 

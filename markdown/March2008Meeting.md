@@ -16,29 +16,29 @@ system built on Moose.
 
 * Saddle the Moose (intro)
 
-  * a perl object system
-  * meta syntax for object/class declaration
-  * simple example
-  * not **that** weird
+    * a perl object system
+    * meta syntax for object/class declaration
+    * simple example
+    * not *that* weird
 
 * Ride the Moose (code in "the real world")
 
-  * Constructors for free
-  * BUILD
-  * under the hood - the meta() method
-  * getters and setters
-    * example
-    * possible name space collisions
-    * 'rw' vs 'ro'
-    * timing issues ( lazy => 1 )
-  * strict types
-    * things die if they are wrong, just like they should (assertion)
-  * roles
-  * less code to test
+    * Constructors for free
+    * BUILD
+    * under the hood - the meta() method
+    * getters and setters
+      * example
+      * possible name space collisions
+      * 'rw' vs 'ro'
+      * timing issues ( lazy => 1 )
+    * strict types
+      * things die if they are wrong, just like they should (assertion)
+    * roles
+    * less code to test
 
 * Love the Moose (techniques and practices)
 
-  * composition / modularization / encapsulation
-  * layout of logical file structure with roles
-    * easier team workflow / merging
-  * QA notes
+    * composition / modularization / encapsulation
+    * layout of logical file structure with roles
+      * easier team workflow / merging
+    * QA notes
