@@ -9,5 +9,5 @@ He has a dream to see the communities of all the /agile programming languages/ (
 
 He can be contacted at:
 
-* mailto:ingy@cpan.org
+* ingy@cpan.org
 * irc://irc.freenode.net/kwiki

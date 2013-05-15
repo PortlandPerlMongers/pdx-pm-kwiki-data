@@ -59,7 +59,7 @@ Inline code like [=/etc/passwd][] or [=CGI::Kwiki][]
 ----
 WikiLinks are formed by two or more words in /camel-case/.
   WikiLinks are formed by two or more words in /camel-case/.
-External links begin with http://[][][][][][][][]mailto:mailto:
+External links begin with http://[][][][][][][][]
 
 http://www.google.com/images/logo.gif
 
@@ -115,8 +115,9 @@ Any text that does not begin in the first column is rendered as preformatted tex
 ----
 You can comment out wiki-text with '# ' at the beginning of a line. This will make the text an html comment:
 
-1. These lines have been 
-1. commented out
+# These lines have been 
+
+# commented out
 
     # These lines have been 
     # commented out
@@ -144,7 +145,7 @@ Tables with multiline or complex data:
 This data has vertical | bars |
 END
 
-1. This is some Perl code:
+# This is some Perl code:
 
 sub foo {
     print "I want a kwiki!\n"

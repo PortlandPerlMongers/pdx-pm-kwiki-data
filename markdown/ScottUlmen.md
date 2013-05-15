@@ -2,6 +2,6 @@ I read 'Learning Perl' almost 6months ago and really enjoyed it.  I am very inte
 
 I would be more than interested in getting together with someone as a 'study partner' either via email or in person to help each other learn.  Guess I should add a contact!
 
-mailto:perl@nemlu.com
+perl@nemlu.com
 
 Additionally, I am visiting perlmonks.org (I'm zerogeek) on a regular basis trying to sponge up as much knowledge as possible.

@@ -53,7 +53,7 @@ Have you signed up?  You should, now.
 * How do you get from all that junk in your head to coherent source code? This talk involves a 4 (or so) stage process to go from the idea stage to an object oriented software map.
 
 
-* This is also a WIP, and comments are welcome. This will require a white board, if anyone has one it would be swell if they could bring it and let me (mailto:tex@off.org) know.
+* This is also a WIP, and comments are welcome. This will require a white board, if anyone has one it would be swell if they could bring it and let me (tex@off.org) know.
 
 
 * 15 minutes.

@@ -11,7 +11,7 @@ _Sign-up sheet:_
 * MarvinHumphrey: Kinosearch, a Perl search engine library
 * GabrielleRoth: How I Integrated & Automated a Network Management System with Perl
 * [http://www.keithl.com Keith Lofstrom][]: [http://www.dirvish.org Dirvish][] - disk-to-disk based on perl and rsync
-* JoshuaKeroes: now hiring for a programmer with network experience (or a networking engineer with programming experience). Please email me: mailto:joshua@cpan.org
+* JoshuaKeroes: now hiring for a programmer with network experience (or a networking engineer with programming experience). Please email me: joshua@cpan.org
 
 ---
 

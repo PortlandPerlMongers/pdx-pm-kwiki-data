@@ -6,14 +6,17 @@ Kwiki allows the administrator of the website to set a privacy level on each pag
 
 By default, all pages are public.
 ----
-=== Installation
+
+### Installation
+
 You need to turn on the privacy feature. It is not installed by default. To do so simply type this command:
 
     kwiki-install --privacy
 
 inside your Kwiki installation directory.
 ----
-=== Server Configuration
+
+### Server Configuration
 
 You'll also need to modify your web server configuration to make the program [=admin.cgi][] protected by an authentication scheme. Here's an example of how you might do it with Apache:
 

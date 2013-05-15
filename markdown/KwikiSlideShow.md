@@ -3,7 +3,7 @@ CGI::Kwiki has a !PowerPoint-like slideshow built in. Give it a try.
 **Click Here to start the slideshow**:
 [&SLIDESHOW_SELECTOR][]
 
-1. title: Intro to Kwiki SlideShow
+# title: Intro to Kwiki SlideShow
 
 ---
 
