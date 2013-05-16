@@ -4,7 +4,7 @@ When: April 14th, 2004 6:30pm
 
 Where: Free Geek, 1741 SE 10th Ave
 
-What: [chromatic](/chromatic), talking about game development with Parrot:
+What: [[chromatic]], talking about game development with Parrot:
 
 * Parrot, the VM for Perl 6, is an object oriented assembly language with an exceedingly rich vocabulary of primitives -- if "primitives" is the right word.  What happens when you link it to a nice multimedia library such as SDL?  How much code does it take to do something interesting?
 
@@ -14,7 +14,7 @@ What: [chromatic](/chromatic), talking about game development with Parrot:
 * chromatic has a page about Parrot SDL: http://wgz.org/chromatic/parrot/sdl/
 * Dan Sugalski's new article on Building a Parrot Compiler: http://admin.oreillynet.com/pub/a/onlamp/2004/04/15/parrot_compiler_construction.html
 
-AND: [JoeOppegaard](/JoeOppegaard), talking about Curses::UI
+AND: [[JoeOppegaard]], talking about Curses::UI
 
 * Curses::UI is a curses based OO user interface framework, giving many convenient widgets you would expect. This talk will cover using Curses::UI specifically drawn on the experience of writing sysv-rc-conf  (http://sysv-rc-conf.sf.net)
 

@@ -1,6 +1,6 @@
 ### wxPerl:  What I had to Learn the Hard Way
 
-[EricWilhelm](/EricWilhelm) talked about how to get started with the Perl bindings to the wxwidgets GUI toolkit.  Eric has spent the last several months designing and building a large (7.5kLOC and growing in 62 modules) system complete with a comprehensive test suite, pluggable, reskinnable architecture, network-transparent connectivity, blah, blah, blah (ok, the blah part is done, but I'm still working on some of the other bits.)
+[[EricWilhelm]] talked about how to get started with the Perl bindings to the wxwidgets GUI toolkit.  Eric has spent the last several months designing and building a large (7.5kLOC and growing in 62 modules) system complete with a comprehensive test suite, pluggable, reskinnable architecture, network-transparent connectivity, blah, blah, blah (ok, the blah part is done, but I'm still working on some of the other bits.)
 
 * overview
 * how cross platform is it?

@@ -1,6 +1,6 @@
 # Perl in the 21st Century
 
-speaker:  [EricWilhelm](/EricWilhelm)
+speaker:  [[EricWilhelm]]
 
 I started using Perl just over six years ago, when 5.6.2 was already
 getting old and 5.8.1 was on the way.  By the time I put my first module

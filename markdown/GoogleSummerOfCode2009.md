@@ -1,4 +1,4 @@
-This page will document new developments in student and mentor interest for taking part in the [GoogleSummerOfCode2009](/GoogleSummerOfCode2009) with The Perl Foundation. Feel free to add your information here if you are an interested student/mentor or your are one the amazing and fantastically cool [PerlMonger](/PerlMonger) groups that will be part of the 10% of groups to help us find students.
+This page will document new developments in student and mentor interest for taking part in the [[GoogleSummerOfCode2009]] with The Perl Foundation. Feel free to add your information here if you are an interested student/mentor or your are one the amazing and fantastically cool [[PerlMonger]] groups that will be part of the 10% of groups to help us find students.
 
 DO NOT EDIT THIS PAGE
 

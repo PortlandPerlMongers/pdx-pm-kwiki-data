@@ -4,7 +4,7 @@
 
 ### Relational DB vs Key-Value Store and Beyond
 
-Speaker Panel: [SelenaDeckelmann](/SelenaDeckelmann), [IgalKoshevoy](/IgalKoshevoy), [JeffLavallee](/JeffLavallee), [DavidWheeler](/DavidWheeler)
+Speaker Panel: [[SelenaDeckelmann]], [[IgalKoshevoy]], [[JeffLavallee]], [[DavidWheeler]]
 
 This will be a panel discussion about the ups, downs, ins, and outs of
 relational, row, key-value, hierarchical, and distributed data stores (simplistic buzzwordiness:  SQL vs NOSQL aka ACID CRUD.)

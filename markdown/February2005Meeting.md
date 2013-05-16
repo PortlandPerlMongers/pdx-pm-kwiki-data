@@ -7,7 +7,7 @@ contribute.  He's also going to talk about Devel::Cover and how to use it
 to ensure the coverage of your tests.  See Randall Hansen's [email](http://mail.pm.org/pipermail/pdx-pm-list/2005-January/002389.html) for a review of Devel::Cover.
 
 Postmortem: It was decided that we will take [App::Info](http://search.cpan.org/dist/App-Info/) module through the [phalanx project](http://qa.perl.org/phalanx/).
-Join us at [AppInfoPhalanx](/AppInfoPhalanx) as we improve the [Kwalitee](http://qa.perl.org/phalanx/kwalitee.html) of this module.
+Join us at [[AppInfoPhalanx]] as we improve the [Kwalitee](http://qa.perl.org/phalanx/kwalitee.html) of this module.
 
 ---
 

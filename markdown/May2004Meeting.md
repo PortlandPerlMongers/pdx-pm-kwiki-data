@@ -6,7 +6,7 @@ Where: Free Geek, 1741 SE 10th Ave
 
 Who: A whole bunch of people, talking about the little things in life
 
-* [JoeOppegaard](/JoeOppegaard)
+* [[JoeOppegaard]]
 * Ovid
 * John Labovitz
 * Randal Schwartz

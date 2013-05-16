@@ -1,6 +1,6 @@
 # QA/Tool Panel/Expo
 
-speakers:  Schwern, [gabrielle](/gabrielle), [DukeLeto](/DukeLeto), [hdp](/hdp), [maybe even You](http://pdx.pm.org/kwiki/index.cgi?PortlandPerlMongerMembers)
+speakers:  Schwern, [[gabrielle]], [[DukeLeto]], [[hdp]], [maybe even You](http://pdx.pm.org/kwiki/index.cgi?PortlandPerlMongerMembers)
 
 What tools and techniques do you use to keep your project shiny and well-oiled?  Bring a sample for show-and-tell, or just a few things to say about it.
 
@@ -8,9 +8,9 @@ For those of you who are speaking, write something here.
 
 If you have questions, write those here too.
 
-* [gabrielle](/gabrielle) - I will share my experiences as a testing newbie, including "barriers to getting started".  I will show off my newly-mocked object for further mocking. :)
-* [hdp](/hdp) - managing & installing dependencies, or Dist::Zilla
-* [DukeLeto](/DukeLeto) - fun with [Smolder](http://search.cpan.org/dist/Smolder/) ([github](http://github.com/mpeters/smolder/tree/master))
-* [MichaelSchwern](/MichaelSchwern) - recap of the 2009 Perl QA Hackathon o' Birmingham
+* [[gabrielle]] - I will share my experiences as a testing newbie, including "barriers to getting started".  I will show off my newly-mocked object for further mocking. :)
+* [[hdp]] - managing & installing dependencies, or Dist::Zilla
+* [[DukeLeto]] - fun with [Smolder](http://search.cpan.org/dist/Smolder/) ([github](http://github.com/mpeters/smolder/tree/master))
+* [[MichaelSchwern]] - recap of the 2009 Perl QA Hackathon o' Birmingham
 
-The panel will be overseen by someone who makes sure that we get to the [LuckyLab](/LuckyLab) in time.
+The panel will be overseen by someone who makes sure that we get to the [[LuckyLab]] in time.

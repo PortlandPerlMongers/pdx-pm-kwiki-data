@@ -12,4 +12,4 @@ cool new Perl-related modules.
 
 ---
 
-Afterwards, as always, beer at the [LuckyLab](/LuckyLab)!
+Afterwards, as always, beer at the [[LuckyLab]]!

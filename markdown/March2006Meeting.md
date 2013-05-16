@@ -26,7 +26,7 @@ Agenda:
 * Comparisons between B and PPI approaches.
 * (likely more heckling)
 * Example code, case studies, and esoteric observations.
-* (beer at the [LuckyLab](/LuckyLab))
+* (beer at the [[LuckyLab]])
 
 Applications:
 

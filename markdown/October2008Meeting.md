@@ -12,7 +12,7 @@ Lots of people will be available to answer questions, and there may be some read
 
 # Preparation
 
-If you can bring a computer, please try to have a running Perl 6 _before_ the meeting so we can avoid getting bogged down in setup issues or derailed by network failure.  Feel free to ask for help on the [MailingList](/MailingList) or in [the irc channel](irc://irc.perl.org/#pdx.pm).
+If you can bring a computer, please try to have a running Perl 6 _before_ the meeting so we can avoid getting bogged down in setup issues or derailed by network failure.  Feel free to ask for help on the [[MailingList]] or in [the irc channel](irc://irc.perl.org/#pdx.pm).
 
 If you have a fairly well-equipped development system with Perl 5 and a C compiler, you should have no problems compiling from the svn:
 
@@ -24,9 +24,9 @@ If you have a fairly well-equipped development system with Perl 5 and a C compil
 [Binaries](http://www.parrotcode.org/source.html
 Downloadable) are also available for many systems (including windows and darwin.)  It would be best to compile the latest code from svn, but the important thing is to **run** Perl 6.
 
-If you cannot bring a computer, please contact [EricWilhelm](/EricWilhelm) (ewilhelm at cpan dot org) -- more computers may be available (and we'll be in the uh... room full of computers.)
+If you cannot bring a computer, please contact [[EricWilhelm]] (ewilhelm at cpan dot org) -- more computers may be available (and we'll be in the uh... room full of computers.)
 
-If you can bring an extra computer, please also contact [EricWilhelm](/EricWilhelm).
+If you can bring an extra computer, please also contact [[EricWilhelm]].
 
 # Links
 

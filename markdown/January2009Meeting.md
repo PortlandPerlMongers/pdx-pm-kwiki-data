@@ -1,6 +1,6 @@
 # How a Virtual Machine Works
 
-**[chromatic](/chromatic)** presents:
+**[[chromatic]]** presents:
 
 Perl 6, Perl 5, Python, Ruby, Lua, JavaScript, Java, C#, and many other
 languages use virtual machines as their execution environments.  Instead of
@@ -20,4 +20,4 @@ understanding how they work can help you become a better programmer.
 
 Pictures: http://flickr.com/photos/28801292@N05/3199149426/
 
-We sure did talk a bunch about [GoogleSummerOfCode2009](/GoogleSummerOfCode2009)
+We sure did talk a bunch about [[GoogleSummerOfCode2009]]

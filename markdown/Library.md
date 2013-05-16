@@ -22,11 +22,11 @@ _Web Design In a Nutshell, 3rd Ed_ Robbins, Jennifer Niederst. Sebastopol, CA: O
 
 _Search Engine Optimization_ Davis, Harold. Sebastopol, CA: O'Reilly Media, 2006, .pdf
 
-_Atlas [UpdatePanel](/UpdatePanel) Control_ Le Roy, Bertrand & Matt Gibbs. Sebastopol, CA: O'Reilly Media, 2006, .pdf
+_Atlas [[UpdatePanel]] Control_ Le Roy, Bertrand & Matt Gibbs. Sebastopol, CA: O'Reilly Media, 2006, .pdf
 
 ### database
 
-_Managing & Using [MySQL](/MySQL), 2nd Ed_ Reese, George; Randy Jay Yarger; Tim King. Sebastopol, CA: O'Reilly Media, 2002, 425 p.
+_Managing & Using [[MySQL]], 2nd Ed_ Reese, George; Randy Jay Yarger; Tim King. Sebastopol, CA: O'Reilly Media, 2002, 425 p.
 
 ### digital photography
 
@@ -50,7 +50,7 @@ _Essential PHP Security_ Shiflett, Chris. Sebastopol, CA: O'Reilly Media, 2005, 
 
 _Running Mac OS X Panther_ Davidson, James Duncan. Sebastopol, CA: O'Reilly Media, 2003, 305 p.
 
-_Essential SNMP, 2nd Ed_ Mauro, Douglas; Kevin Schmidt. Sebastopol, CA: O'Reilly Media, 2005, 442 p. *checked out by [GabrielleRoth](/GabrielleRoth)
+_Essential SNMP, 2nd Ed_ Mauro, Douglas; Kevin Schmidt. Sebastopol, CA: O'Reilly Media, 2005, 442 p. *checked out by [[GabrielleRoth]]
 
 _Ship It_ Richardson, Jared; William Gwaltney Jr. Pragmatic Bookshelf, 2005, 200 p.
 

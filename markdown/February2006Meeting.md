@@ -8,18 +8,18 @@ Got any cool aliases in your .*.rc file?  Want to hear what others have?  What s
 
 The people who presented were:
 
-* [BruceKeeler](/BruceKeeler)
-* [DavidWheeler](/DavidWheeler)
+* [[BruceKeeler]]
+* [[DavidWheeler]]
 * Ovid
-* [MichaelSchwern](/MichaelSchwern)
-* [MarvinHumphrey](/MarvinHumphrey)
-* [EricWilhelm](/EricWilhelm)
-* [JoshHeumann](/JoshHeumann)
+* [[MichaelSchwern]]
+* [[MarvinHumphrey]]
+* [[EricWilhelm]]
+* [[JoshHeumann]]
 
-There was also a fair amount of back-seat presenting by [chromatic](/chromatic).
+There was also a fair amount of back-seat presenting by [[chromatic]].
 
-Details and config snippets are here:  [ProductivityHacks](/ProductivityHacks)
+Details and config snippets are here:  [[ProductivityHacks]]
 
 ---
 
-Afterwards, as always, beer at the [LuckyLab](/LuckyLab)!
+Afterwards, as always, beer at the [[LuckyLab]]!

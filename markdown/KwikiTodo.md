@@ -1,8 +1,8 @@
-See also: [KwikiKnownBugs](/KwikiKnownBugs)
+See also: [[KwikiKnownBugs]]
 
 Add these features:
 
-* [KwikiSisters](/KwikiSisters)
+* [[KwikiSisters]]
 * Page aliasing
 * Page renaming/refactoring
 * Revision Diff Display

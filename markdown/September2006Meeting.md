@@ -21,7 +21,7 @@ Remove from grill and serve with locally brewed beer.
 
 #### THE PANEL:
 
-* hacker -- [David Wheeler](http://kineticode.com) is principal of Kineticode, an open-source software development and support company. Best known as the maintainer of the Bricolage CMS, he is lately hacking object-relational mappers, developing an integrated query language for Perl, and creating custom [PostgreSQL](/PostgreSQL) data types.
+* hacker -- [David Wheeler](http://kineticode.com) is principal of Kineticode, an open-source software development and support company. Best known as the maintainer of the Bricolage CMS, he is lately hacking object-relational mappers, developing an integrated query language for Perl, and creating custom [[PostgreSQL]] data types.
 
 * machinist -- Dan Falck is a guitar and bass player who is into music of all kinds. By day, he works for King Cycle Group on tooling design, shop equipment, project planning, and QC -- which is like riding a bike after 14 years at Gibson Guitar.  Dan shares his lifelong joy of woodworking with his wife of 15 years and their kids (ages 8, 12, and 14.)  He also finds time to machine and engrave guitar parts using linux-powered CNC, program in Python, and peruse the FORTRAN^W C code of an APT processor.
 

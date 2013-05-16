@@ -1,6 +1,6 @@
 # Speakers Wanted
 
-A list of possible [FutureMeetings](/FutureMeetings) topics.  If you have expertise you would like to share with the group that covers one of these topics, please contact [FearlessJosh](/FearlessJosh) with your availability.
+A list of possible [[FutureMeetings]] topics.  If you have expertise you would like to share with the group that covers one of these topics, please contact [[FearlessJosh]] with your availability.
 
 * How to Know What to Steal
   * Choosing good modules from CPAN and other general advice on finding and evaluating open-source code.

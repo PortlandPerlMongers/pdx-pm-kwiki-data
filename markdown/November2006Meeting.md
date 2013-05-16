@@ -8,7 +8,7 @@
 Crucible is a test harness in use at OSDL which utilizes several Perl
 modules, along with a mess of bash scripts, to provide a generalized
 automated testing system.  They use Crucible for testing NFSv4, Linux
-CPU and Memory hotplug, Inkscape, Cairo, and [GeGL](/GeGL).  It coordinates
+CPU and Memory hotplug, Inkscape, Cairo, and [[GeGL]].  It coordinates
 tests across a collection of different machines of different
 architectures; it handles automated power cycling to test-boot new
 kernels; it can reimage, capture console logs, etc.; it can coordinate
@@ -17,7 +17,7 @@ THROUGH A TIN CAN1!!
 
 Most of the Perl components have been uploaded to CPAN, including one
 set of modules for editing/updating different kinds of bootloader
-config files, called Linux::Bootloader, another module WWW::[PkgFind](/PkgFind) for
+config files, called Linux::Bootloader, another module WWW::[[PkgFind]] for
 downloading software packages from web or ftp sites, or from
 cvs/git/svn, and another set of modules for parsing test output from
 different kinds of test programs, called Test::Parser.  We've also

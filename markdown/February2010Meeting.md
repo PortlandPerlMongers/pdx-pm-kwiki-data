@@ -2,7 +2,7 @@
 
 ### Introduction to Parrot Virtual Machine
 
-speaker: [JonathanLeto](/JonathanLeto)
+speaker: [[JonathanLeto]]
 
 Come learn the basic things you need to know about Parrot Virtual Machine to start hacking on
 

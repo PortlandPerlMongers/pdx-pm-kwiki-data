@@ -1,6 +1,6 @@
 # October2010Meeting
 
-Wed. October 13th, 6:53pm at [FreeGeek](/FreeGeek) -- 1731 SE 10th Ave.
+Wed. October 13th, 6:53pm at [[FreeGeek]] -- 1731 SE 10th Ave.
 
 ## Practical Lists / Utilities pulled from Fennec
 
@@ -21,4 +21,4 @@ the following until he runs out of time:
 * Method::Workflow
 * Child
 * Exodist::Util
-* Devel::[CallerStack](/CallerStack)
+* Devel::[[CallerStack]]

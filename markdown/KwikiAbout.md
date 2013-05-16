@@ -1,4 +1,4 @@
-CGI::Kwiki is simple yet powerful Wiki environment written in Perl as a CPAN module distribribution. It was written by [BrianIngerson](/BrianIngerson).
+CGI::Kwiki is simple yet powerful Wiki environment written in Perl as a CPAN module distribribution. It was written by [[BrianIngerson]].
 
 **This is CGI::Kwiki Version $l**
 

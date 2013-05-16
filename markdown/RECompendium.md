@@ -10,7 +10,7 @@ The `Regexp::Common` module provides some commonly-needed patterns. See http://s
 
 ## The Patterns
 
-Reader beware: Although we do our best to keep these accurate, the [KwikiFormattingRules](/KwikiFormattingRules) (and careless editing) may mangle some of these patterns. Use them at your own risk! (And help everybody out: Correct the bugs when you find them.)
+Reader beware: Although we do our best to keep these accurate, the [[KwikiFormattingRules]] (and careless editing) may mangle some of these patterns. Use them at your own risk! (And help everybody out: Correct the bugs when you find them.)
 
 These are somewhat modified from the perlfaq, section 4:
 

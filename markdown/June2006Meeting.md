@@ -2,7 +2,7 @@
 
 Perl Hacks You Probably Never Knew Existed
 
-[chromatic](/chromatic)
+[[chromatic]]
 
 Perl is a powerful language with many secrets.  It's no wonder that we call the true masters of Perl gurus -- they have studied and discovered arcane knowledge and arcana.
 

@@ -2,7 +2,7 @@
 
 # Shebangml: a markup language with bacon
 
-speaker: [EricWilhelm](/EricWilhelm)
+speaker: [[EricWilhelm]]
 
 Shebangml is a [markup language](http://search.cpan.org/dist/Shebangml/lib/Shebangml/Syntax.pod) which saves programmers from gouging their eyes out on pointy angle brackets.  Most pointy ML data (SGML/XML/XHTML/HTML) can be translated to and from this human-readable, bacony syntax.  This allows modern programmers to interface with legacy software such as WWW browsers and other relics like "Enterprise Java Software".  But the true power of shebangml lies in the '#!' (hash-bang/shebang) and its programmable templating features.
 

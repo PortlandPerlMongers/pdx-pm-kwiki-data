@@ -1,1 +1,1 @@
-[HollyKing](/HollyKing) on [PerlMonks](/PerlMonks).org
+[[HollyKing]] on [[PerlMonks]].org

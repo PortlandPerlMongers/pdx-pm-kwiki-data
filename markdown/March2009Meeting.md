@@ -1,12 +1,12 @@
 ### Test::Builder 2: Electric Boogaloo
 
-speaker: [MichaelSchwern](/MichaelSchwern)
+speaker: [[MichaelSchwern]]
 
 Test::Builder underpins 80% of the tests on CPAN.  Its limitations become everyone's limitations. It's done a very good job adapting the last seven years, and testing has become more sophisticated in that time, but age and backwards compatibility holds things back. There are a number of desired features which Test::Builder cannot support, such as end-of-test actions, without radically altering how tests are built.
 
 thus: Test::Builder2.
 
-We'll go over the basics of how Perl's testing system works.  What things like Test::More and Test::Harness and Test::Builder and [MakeMaker](/MakeMaker) do and how they relate.  TAP (Test Anything Protocol) will be briefly covered.  Then we'll move on to how to use Test::Builder to write your own test module, and why you'd want to do that.  Finally, we'll go into what's wrong with the design of Test::Builder and what Test::Builder2 is going to do about that.
+We'll go over the basics of how Perl's testing system works.  What things like Test::More and Test::Harness and Test::Builder and [[MakeMaker]] do and how they relate.  TAP (Test Anything Protocol) will be briefly covered.  Then we'll move on to how to use Test::Builder to write your own test module, and why you'd want to do that.  Finally, we'll go into what's wrong with the design of Test::Builder and what Test::Builder2 is going to do about that.
 
 Following the talk we're going to do some coding.  People will split up into pairs (or triads, if you swing that way) and work on something to do with testing and Test::Builder or just watch.  This includes...
 

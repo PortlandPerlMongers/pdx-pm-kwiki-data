@@ -1,6 +1,6 @@
 ### A hodgepodge of CPAN niftyness
 
-Speaker:  [JeffLavallee](/JeffLavallee)
+Speaker:  [[JeffLavallee]]
 
 CPAN is one of the greatest strengths of Perl.  What can you do to make the most of it?  How can you make it more convenient to use?  How can you help CPAN authors improve their modules?
 

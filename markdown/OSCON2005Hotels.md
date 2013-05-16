@@ -31,7 +31,7 @@ The [NW Hostel](http://www.2oregonhostels.com/nw_home.htm)
 
 * Similar attributes to the above.
 * Bigger Powell's. :)
-* Trimet estimates 30 minutes (14 minutes walking). The PGE Park station isn't in fareless square, but Zone 1 tickets are $1.35 for one (I don't think you can buy singles anymore -- [BrettWarden](/BrettWarden)) or [$12.50 for 10](http://www.trimet.org/store/onezone.htm) (enough for the week).
+* Trimet estimates 30 minutes (14 minutes walking). The PGE Park station isn't in fareless square, but Zone 1 tickets are $1.35 for one (I don't think you can buy singles anymore -- [[BrettWarden]]) or [$12.50 for 10](http://www.trimet.org/store/onezone.htm) (enough for the week).
 
 ---
 
@@ -44,7 +44,7 @@ Hilton Portland & Executive Tower
 Days Inn City Center
 
 * Trimet estimates 13 minutes (4 minutes walking). 6th & Jefferson is in fareless square.
-* (It got bad reviews in 2004. --[AllisonRandal](/AllisonRandal))
+* (It got bad reviews in 2004. --[[AllisonRandal]])
 
 Embassy Suites Hotel Portland-Downtown
 

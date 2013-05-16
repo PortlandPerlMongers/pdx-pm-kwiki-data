@@ -1,4 +1,4 @@
-[hdp](/hdp)
+[[hdp]]
 
 cpan: http://search.cpan.org/~hdp/
 

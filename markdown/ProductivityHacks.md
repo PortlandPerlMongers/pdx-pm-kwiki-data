@@ -1,11 +1,11 @@
 This page was started after our February2006Meeting in which various people suggested tricks they used to stay productive.
 
-[VimRCFile](/VimRCFile)
+[[VimRCFile]]
 
-[BashRCFile](/BashRCFile)
+[[BashRCFile]]
 
-[ScreenRCFile](/ScreenRCFile)
+[[ScreenRCFile]]
 
-[DotEmacsFile](/DotEmacsFile)
+[[DotEmacsFile]]
 
 [cgi perldoc viewer](http://scratchcomputing.com/svn/CGI-perldoc/trunk/data/scripts/)

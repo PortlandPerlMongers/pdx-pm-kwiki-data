@@ -1,4 +1,4 @@
-A snippet of wisdom from [FearlessJosh](/FearlessJosh):
+A snippet of wisdom from [[FearlessJosh]]:
 
 Get possible designs from people in the group, put them on the wiki, we vote, and then get the shirts printed.  Trying to find a local place to print the shirts is good, but cheap is also important.  Also get buttons made, possbily from [Microcosm](http://www.microcosmpublishing.com/manufacturing/buttons/)  As far as shirt sizes, here are some rough numbers:
 
@@ -11,6 +11,6 @@ Get possible designs from people in the group, put them on the wiki, we vote, an
 
 **Printing Locations**
 
-[JoshuaKeroes](/JoshuaKeroes) recommends http://bluepdx.com/
+[[JoshuaKeroes]] recommends http://bluepdx.com/
 
-[JoshHeumann](/JoshHeumann) was recommended http://www.brunettotshirts.com
+[[JoshHeumann]] was recommended http://www.brunettotshirts.com

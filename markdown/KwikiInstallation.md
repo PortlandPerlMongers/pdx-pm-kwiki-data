@@ -38,7 +38,7 @@ Adjust to your needs.
 
 ## See Also:
 
-* [KwikiUpgrading](/KwikiUpgrading)
-* [KwikiModPerl](/KwikiModPerl)
-* [KwikiPrivacy](/KwikiPrivacy)
-* [KwikiBackup](/KwikiBackup)
+* [[KwikiUpgrading]]
+* [[KwikiModPerl]]
+* [[KwikiPrivacy]]
+* [[KwikiBackup]]

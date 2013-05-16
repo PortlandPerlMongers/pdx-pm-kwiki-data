@@ -1,4 +1,4 @@
-[JoshHeumann](/JoshHeumann)
+[[JoshHeumann]]
 
     " maps save to shift-w
     map W :w<cr>
@@ -18,11 +18,11 @@
     map q: :q
     map Q :q
 
-Also, see [RandallHansen](/RandallHansen)'s bucketize plugin [VimRCFileBucketize](/VimRCFileBucketize)
+Also, see [[RandallHansen]]'s bucketize plugin [[VimRCFileBucketize]]
 
 ---
 
-[EricWilhelm](/EricWilhelm)
+[[EricWilhelm]]
 
     " I sometimes save with Ctrl+S
     map <C-s> :w<CR>
@@ -78,7 +78,7 @@ That `-d` makes sure that I get documentation, and with `--obj` I get the `my $s
 
 ---
 
-[chromatic](/chromatic)
+[[chromatic]]
 
     map ,ton  <ESC>:%s/More tests =>/More 'no_plan'; # tests =>/<CR>
     map ,toff <ESC>:%s/More 'no_plan'; # /More /<CR>$b
@@ -87,6 +87,6 @@ That `-d` makes sure that I get documentation, and with `--obj` I get the `my $s
 
 ---
 
-[AdamMonsen](/AdamMonsen)
+[[AdamMonsen]]
 
 I've moved mine [to dotfiles.org](http://dotfiles.org/~meonkeys/.vimrc).

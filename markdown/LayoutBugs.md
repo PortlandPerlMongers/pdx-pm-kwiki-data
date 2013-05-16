@@ -1,4 +1,4 @@
-This site is powered by [Kwiki](http://www.kwiki.org).  [RandallHansen](/RandallHansen)  is tweaking it with the following goals:
+This site is powered by [Kwiki](http://www.kwiki.org).  [[RandallHansen]]  is tweaking it with the following goals:
 0 Valid XHTML and CSS,
 0 Accessible to people with disabilities and non-GUI and non-JavaScript browsers,
 0 Separation of content and presentation using CSS for layout.

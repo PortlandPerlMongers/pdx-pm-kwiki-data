@@ -1,4 +1,4 @@
-[TomHeady](/TomHeady)
+[[TomHeady]]
 
     ;; If running under screen, disable C-z.
     (if (and (getenv "STY") (not window-system))

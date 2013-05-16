@@ -4,14 +4,14 @@
 
 **Lightning Talks**
 
-[WhatIsALightningTalk](/WhatIsALightningTalk), you might ask.
+[[WhatIsALightningTalk]], you might ask.
 
 _Sign-up sheet:_
 
-* [MarvinHumphrey](/MarvinHumphrey): Kinosearch, a Perl search engine library
-* [GabrielleRoth](/GabrielleRoth): How I Integrated & Automated a Network Management System with Perl
+* [[MarvinHumphrey]]: Kinosearch, a Perl search engine library
+* [[GabrielleRoth]]: How I Integrated & Automated a Network Management System with Perl
 * [Keith Lofstrom](http://www.keithl.com): [Dirvish](http://www.dirvish.org) - disk-to-disk based on perl and rsync
-* [JoshuaKeroes](/JoshuaKeroes): now hiring for a programmer with network experience (or a networking engineer with programming experience). Please email me: joshua@cpan.org
+* [[JoshuaKeroes]]: now hiring for a programmer with network experience (or a networking engineer with programming experience). Please email me: joshua@cpan.org
 
 ---
 

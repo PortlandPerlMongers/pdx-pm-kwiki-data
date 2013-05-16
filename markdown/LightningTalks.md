@@ -2,7 +2,7 @@ March 10th, 2004 6:30pm, the first Great Lightning Talk shall commence!
 
 Times?  5, 10 or 15 minutes?
 
-So, [WhatIsALightningTalk](/WhatIsALightningTalk)?
+So, [[WhatIsALightningTalk]]?
 
 Have you signed up?  You should, now.
 
@@ -16,7 +16,7 @@ Have you signed up?  You should, now.
 
 * **Simple privacy** or **My code has a shotgun**  http://www.pobox.com/~schwern/img/boomstick.jpg
 
-  * by [MichaelSchwern](/MichaelSchwern)  
+  * by [[MichaelSchwern]]  
 
   * Perl's philosophy on OO privacy is "`it would prefer that you stayed out of its living room because you weren't invited, not because it has a shotgun.`"  While this mostly works in practice, sometimes you need a shotgun.  Unfortunately, many of the existing OO privacy modules in Perl (Class::Contract, Tie::SecureHash) are more like howitzers.
 
@@ -26,7 +26,7 @@ Have you signed up?  You should, now.
 
 * **This Parrot Plays Games**
 
-  * [chromatic](/chromatic)
+  * [[chromatic]]
 
   * Parrot, the VM for Perl 6, is an object oriented assembly language with an exceedingly rich vocabulary of primitives -- if "primitives" is the right word.  What happens when you link it to a nice multimedia library such as SDL?  How much code does it take to do something interesting?
 
@@ -46,8 +46,8 @@ Have you signed up?  You should, now.
 
 * **Pointer.pm**
 
-  * [BrianIngerson](/BrianIngerson)
+  * [[BrianIngerson]]
 
 * **My first Perl-Tk program**
 
-  * [RandalSchwartz](/RandalSchwartz)
+  * [[RandalSchwartz]]

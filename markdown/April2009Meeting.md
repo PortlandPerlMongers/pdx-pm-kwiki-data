@@ -1,6 +1,6 @@
 # Meta-Moose
 
-speaker: Hans Dieter Pearcey [hdp](/hdp)
+speaker: Hans Dieter Pearcey [[hdp]]
 
 [Moose](http://search.cpan.org/dist/Moose) is a postmodern object system for Perl 5.
 

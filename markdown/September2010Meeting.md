@@ -8,7 +8,7 @@ speakers: chromatic and Michael Schwern
 
 This meeting will be two shorter presentations back-to-back.  The Modern Perl talk is broadly targetted at beginners and everyday general usage concepts while the Test::Builder 2 talk will delve much deeper into particular details of Perl's testing system.
 
-### [chromatic](/chromatic) on Modern Perl
+### [[chromatic]] on Modern Perl
 
 Perl masters talk about strange subjects such as whipupitude, manipulexity,
 context, lexicals, and linguistic principles.  It may seem that you must be a wizard to apply these notions to your code and dexterously wield Perl's essential strengths.  In truth, these ideas and idioms are deceptively simple: you use them every day when you read or write plain English.

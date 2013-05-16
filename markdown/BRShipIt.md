@@ -1,6 +1,6 @@
 ## Ship It!
 
-_review by_ [EricWilhelm](/EricWilhelm)
+_review by_ [[EricWilhelm]]
 
 **Authors:** Jared Richardson, William A. Gwaltney
 

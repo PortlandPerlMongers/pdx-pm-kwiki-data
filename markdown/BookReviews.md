@@ -2,8 +2,8 @@ This is the book review page.  So far it's just a list of book review pages.  Ma
 
 Notice how the book review pages are prefaced with BR.  Clever.
 
-* [BRNessusNetworkAuditing](/BRNessusNetworkAuditing) by [GabrielleRoth](/GabrielleRoth)
-* [BRShipIt](/BRShipIt) by [EricWilhelm](/EricWilhelm)
-* [BRLearningthebashShell](/BRLearningthebashShell) by [GabrielleRoth](/GabrielleRoth)
-* [BRRefactoringSQLApplications](/BRRefactoringSQLApplications) by [JonathanLeto](/JonathanLeto)
-* [BRJavaScriptTheMissingManual](/BRJavaScriptTheMissingManual) by [JonathanLeto](/JonathanLeto)
+* [[BRNessusNetworkAuditing]] by [[GabrielleRoth]]
+* [[BRShipIt]] by [[EricWilhelm]]
+* [[BRLearningthebashShell]] by [[GabrielleRoth]]
+* [[BRRefactoringSQLApplications]] by [[JonathanLeto]]
+* [[BRJavaScriptTheMissingManual]] by [[JonathanLeto]]

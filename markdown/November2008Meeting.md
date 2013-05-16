@@ -1,4 +1,4 @@
-Speaker:  [gabrielle](/gabrielle)
+Speaker:  [[gabrielle]]
 
 Topic:  A Sitter for Cisco Syslogs
 

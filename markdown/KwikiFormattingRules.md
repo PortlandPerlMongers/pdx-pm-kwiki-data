@@ -1,4 +1,4 @@
-This page describes the wiki markup language used by this kwiki.  For a more general help, see [KwikiHelpIndex](/KwikiHelpIndex).
+This page describes the wiki markup language used by this kwiki.  For a more general help, see [[KwikiHelpIndex]].
 
 ---
 
@@ -68,7 +68,7 @@ Inline code like `/etc/passwd` or `CGI::Kwiki`
 
 ---
 
-[WikiLinks](/WikiLinks) are formed by two or more words in _camel-case_.
+[[WikiLinks]] are formed by two or more words in _camel-case_.
 
     WikiLinks are formed by two or more words in /camel-case/.
 
@@ -76,7 +76,7 @@ External links begin with http://, like http://www.freepan.org
 
     External links begin with http://, like http://www.freepan.org
 
-Forced wiki [links](/links) are a alphnumeric string surrounded by square brackets.
+Forced wiki [[links]] are a alphnumeric string surrounded by square brackets.
 
     Forced wiki [links] are a alphnumeric string surrounded by square brackets.
 

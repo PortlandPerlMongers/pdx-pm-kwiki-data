@@ -10,7 +10,7 @@ There will be [cake](http://homepage.mac.com/joester5/writing/images/the-cake-is
 
 Meeting we actually had:
 
-### Euler Bench, [GSoC](/GSoC), Parrot, cake ...
+### Euler Bench, [[GSoC]], Parrot, cake ...
 
 Schwern will be out of town, so the meeting topic has changed at the last minute. Jonathan Leto will give updates of The Perl Foundation's involvement in Google Summer of Code 2009, as well as a short rundown of recent milestones in Parrot/Perl 6/Rakudo development. (chromatic probably has some good stuff to say about these things as well)
 

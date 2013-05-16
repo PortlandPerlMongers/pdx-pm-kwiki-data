@@ -8,11 +8,11 @@ An open discussion of how people use Perl in the workplace, for everything from 
 
 Who:
 
-[ChrisDawson](/ChrisDawson):  I'll be talking about my company's product: Webcast in a Box, a webcasting solution built with Perl using components like HTML::Mason on Apache & DBD::mysql.
+[[ChrisDawson]]:  I'll be talking about my company's product: Webcast in a Box, a webcasting solution built with Perl using components like HTML::Mason on Apache & DBD::mysql.
 
 [Ovid](http://users.easystreet.com/ovid/): Talked in vauge terms about the framework for composing complex queries that his company uses.
 
-Thanks to [ChrisDawson](/ChrisDawson) for the topic suggestion.
+Thanks to [[ChrisDawson]] for the topic suggestion.
 
 [Video (in RealPlayer format)](http://www.webcastinabox.com/presentations/pdx-pm/pdx-pm.ram)
 

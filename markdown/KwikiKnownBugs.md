@@ -1,1 +1,1 @@
-See also: [KwikiTodo](/KwikiTodo)
+See also: [[KwikiTodo]]

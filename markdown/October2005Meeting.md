@@ -6,8 +6,8 @@ David Wheeler, How to Move Object-Relational Mapping into the Database ([slides]
 
 Developers of database-backed object-oriented applications sooner or later run up against the impedance mismatch between relational databases and object-oriented design. The solution to the impedance mismatch is generally to create an object/relational mapper in the application space to transparently manage the serialization and deserialization of objects to the database.
 
-This session describes a different approach: polymorphic database design. This approach advocates taking advantage of the advanced features of the database to move object/relational mapping to the database itself. While many application developers use only a subset of the functionality of their database server, most databases offer a world of advanced features just waiting to make life easier. Examples from [PostgreSQL](/PostgreSQL) and SQLite demonstrate how to leverage database features such as update-able views and domains to greatly diminish impedance mismatch while simplifying application source code.
+This session describes a different approach: polymorphic database design. This approach advocates taking advantage of the advanced features of the database to move object/relational mapping to the database itself. While many application developers use only a subset of the functionality of their database server, most databases offer a world of advanced features just waiting to make life easier. Examples from [[PostgreSQL]] and SQLite demonstrate how to leverage database features such as update-able views and domains to greatly diminish impedance mismatch while simplifying application source code.
 
 ---
 
-Afterwards, as always, beer at the [LuckyLab](/LuckyLab)!
+Afterwards, as always, beer at the [[LuckyLab]]!

@@ -21,4 +21,4 @@ In lieu of the slides, here are the seven sins:
 
 ---
 
-Afterwards, as always, beer at the [LuckyLab](/LuckyLab)!
+Afterwards, as always, beer at the [[LuckyLab]]!
